@@ -1,0 +1,29 @@
+{
+  "startedAt": "2026-11-20T11:01:38.443Z",
+  "count": 500,
+  "approvalId": "b91876dc-9c06-470f-abd8-ce3b30427100",
+  "dataDir": "<PROJECT_ROOT>\\data\\stress-500-1795171786367",
+  "expectedPieces": 1998,
+  "sourceCodeSha256": {
+    "src/worker.js": "55caa3371a862a73ccdc1569a04986943478e53e7584b93d946e81f0e022bb95",
+    "src/render.js": "88b4a4da3bfad20f09857cb6f287eb33ca443a6ce5d79ab4e1076c8433af9a63",
+    "src/packing.js": "11dd18ac1604135a5dc7e5f25b895baf212e064a3ebbdeaa8cc37cfb473effb0",
+    "src/domain.js": "7d3f111974b3cee5b570dd13a0635e8bf2a0d8a54e14153e40e027b25ec9c9df"
+  },
+  "memoryMeasurement": "Node export worker RSS sampled through IPC every second; no browser is launched by export. Between-sample spikes are not included.",
+  "passed": true,
+  "exportSeconds": 51.0014631,
+  "pageCount": 58,
+  "pdfBytes": 34949933,
+  "pdfPath": "<PROJECT_ROOT>\\data\\stress-500-1795171786367\\exports\\95d2aff0-539e-4193-a81c-4f3c78bc9ab0\\order-a3.pdf",
+  "manifestPath": "<PROJECT_ROOT>\\data\\stress-500-1795171786367\\exports\\95d2aff0-539e-4193-a81c-4f3c78bc9ab0\\placement-manifest.json",
+  "tests": [
+    "Exact approved piece/copy/component coverage",
+    "Canonical artwork hashes match every placement",
+    "Every A3 page is exactly297x420mm",
+    "All placements satisfy margins/gaps and non-overlap"
+  ],
+  "peakNodeWorkerRssBytes": 289284096,
+  "peakNodeWorkerHeapBytes": 69173168,
+  "finishedAt": "2026-11-20T11:02:29.509Z"
+}

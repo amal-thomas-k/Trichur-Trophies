@@ -1,0 +1,12 @@
+import { readFileSync } from 'node:fs';
+import { DatabaseSync } from 'node:sqlite';
+import path from 'node:path';
+import { DATA,ROOT } from './config.js';
+export const db = new DatabaseSync(path.join(DATA, 'app.sqlite'));
+db.exec('PRAGMA journal_mode=WAL; PRAGMA foreign_keys=ON; PRAGMA busy_timeout=10000;');
+db.exec(readFileSync(path.join(ROOT,'migrations','001_initial.sql'),'utf8'));
+export const one = (sql, ...args) => db.prepare(sql).get(...args);
+export const all = (sql, ...args) => db.prepare(sql).all(...args);
+export const run = (sql, ...args) => db.prepare(sql).run(...args);
+export const parse = row => row ? ({...JSON.parse(row.doc), id: row.id, ...(row.revision === undefined ? {} : {revision:row.revision})}) : null;
+export const tx = fn => { db.exec('BEGIN IMMEDIATE'); try { const r = fn(); db.exec('COMMIT'); return r; } catch(e) { db.exec('ROLLBACK'); throw e; } };

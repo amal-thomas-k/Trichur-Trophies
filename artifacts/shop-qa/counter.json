@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "checks": [
+    "Staff signs into /staff",
+    "Staff creates a new Jyothi model order",
+    "Fixed heading is protected",
+    "Decoded the QR from actual screen pixels",
+    "A separate phone browser opened the matching order",
+    "Saved name and photo survived reload"
+  ],
+  "browser": "158.0.8127.88",
+  "transport": "native loopback HTTP",
+  "physicalCameraTest": false
+}

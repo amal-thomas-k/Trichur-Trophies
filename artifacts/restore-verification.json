@@ -1,0 +1,56 @@
+{
+  "passed": true,
+  "transport": "Actual server handler with Node request/response streams and real restored DB/files; no HTTP socket",
+  "httpSocketVerified": false,
+  "verifiedAt": "2026-11-20T10:53:45.348Z",
+  "orderId": "c09f80f0-0ede-482f-9668-c59731670c79",
+  "approvalId": "35e341af-f46b-47b4-8daf-392182a608e2",
+  "snapshotHash": "131009760eeb02be5006eabdeb3a61f58261190b074206d01cca8c7fbc99e30a",
+  "counts": {
+    "orders": 2,
+    "recipients": 2,
+    "approvals": 1,
+    "assets": 2
+  },
+  "downloads": [
+    {
+      "kind": "photo",
+      "status": 200,
+      "bytes": 64721,
+      "sha256": "62d27784e1c5b9ba8ace9f39588ba0c260f9d69f14bcf0b17e4b820036b7bdc8"
+    },
+    {
+      "kind": "proof",
+      "status": 200,
+      "bytes": 85024,
+      "sha256": "6095eb48807f5fd6c1652c2165f51fdb418dde1a11384fa5572d601c1d4a607a"
+    },
+    {
+      "kind": "pdf",
+      "status": 200,
+      "bytes": 65563,
+      "sha256": "b407e252f9d2e4eb839a7d20e1fb6dfd1dac9ff6acb5aa2b6e8b963d00aa29d2"
+    },
+    {
+      "kind": "manifest",
+      "status": 200,
+      "bytes": 1823,
+      "sha256": "3f68ee6f21615e457a364b9d86f9344b10f95ce31b9bd751f51fc5dedda477e7"
+    }
+  ],
+  "unauthenticatedExportStatus": 403,
+  "pdfDimensionsMm": [
+    {
+      "widthMm": 297.00000000000006,
+      "heightMm": 420
+    }
+  ],
+  "immutableSnapshotsRewritten": false,
+  "allStreamedFilesWithinRestoredDataDirectory": true,
+  "streamedRelativePaths": [
+    "assets/680f1f24-752d-4142-9cc3-66b18bdafcd6/normalized.png",
+    "renders/9c33767a-3e5c-4e6e-bd8b-21b119927c45/attempt-1-a615b47e-a31c-4b7f-8f47-c50df4af9231/front-6095eb48807f5fd6.png",
+    "exports/e16998a0-50dc-4230-bfc5-8f5ab909b38c/order-a3.pdf",
+    "exports/e16998a0-50dc-4230-bfc5-8f5ab909b38c/placement-manifest.json"
+  ]
+}

@@ -1,0 +1,32 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {randomUUID} from 'node:crypto';
+import {spawnSync} from 'node:child_process';
+import {createHarness} from './http-harness.js';
+
+test('a clean shop database can create a Jyothi order and render a Malayalam name', {timeout:120000}, async t=>{
+  const h=await createHarness();
+  t.after(()=>h.close());
+  const migration=spawnSync(process.execPath,['scripts/migrate.js'],{env:{...process.env,DATA_DIR:h.data},encoding:'utf8',windowsHide:true});
+  assert.equal(migration.status,0,migration.stderr);
+  const staff=await h.login();
+  const fixture=await h.order(staff,{title:'Shop model acceptance',shared:{heading:''},groups:[{label:'Carving',templateId:'shop-carving-jyothi-v2',expectedQuantity:1}]});
+  const recipientId=randomUUID();
+  const entryPath='/api/customer/recipients/'+recipientId;
+  const name='\u0d05\u0d28\u0d41 \u0d15\u0d43\u0d37\u0d4d\u0d23\u0d7b';
+  const created=await h.api(fixture.customer,'PUT',entryPath,{groupId:fixture.view.groups[0].id,expectedRevision:0,name,copies:1});
+  assert.equal(created.status,200);
+  const uploaded=await h.api(fixture.customer,'POST',entryPath+'/photo',h.image,{'x-file-name':'portrait.png','x-expected-revision':String(created.body.revision),'x-upload-id':randomUUID()});
+  assert.equal(uploaded.status,200);
+  const render=await h.api(fixture.customer,'POST',entryPath+'/proof',{expectedRevision:uploaded.body.revision});
+  assert.equal(render.status,202);
+  await h.waitJob(fixture.customer,render.body.id);
+  const view=await h.api(fixture.customer,'GET','/api/customer/order');
+  const {proof}=view.body.recipients[0];
+  assert.equal(view.body.recipients[0].name,name);
+  assert.equal(view.body.templates[0].fixedHeading,'Jyothi Engineering College');
+  const art=proof.artworks[0];
+  assert.deepEqual([art.pixelWidth,art.pixelHeight],[2953,2953]);
+  assert.ok(art.fit.some(field=>field.field==='Recipient name'&&field.ok));
+  assert.ok(Math.abs(art.widthMm-250.020667)<0.00001);
+});

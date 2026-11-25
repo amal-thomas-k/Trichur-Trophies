@@ -1,0 +1,36 @@
+{
+  "runId": "stress-12-1795164400969",
+  "count": 12,
+  "dataDir": "<PROJECT_ROOT>\\data\\stress-12-1795164400969",
+  "startedAt": "2026-11-20T08:46:42.126Z",
+  "imageDimensions": [
+    1200,
+    1600
+  ],
+  "sourceFixtureCount": 10,
+  "rendererDpi": 300,
+  "crashRestart": true,
+  "tests": [
+    "Exactly one current proof per recipient after forced worker restart",
+    "Exact copy/component coverage with no missing or duplicated pieces",
+    "Every PDF placement references its approved canonical artwork SHA-256",
+    "Every PDF page is exactly A3 297 by 420 mm"
+  ],
+  "orderId": "fbc158a9-8318-4806-9e15-74fcc8f88153",
+  "preparationSeconds": 0.7048983000000001,
+  "interruptedJobId": "08d39c7b-0743-4622-9775-adf924df7cd3",
+  "renderSeconds": 20.3342313,
+  "approvalId": "9d81a599-fa75-4463-9ca8-196977017225",
+  "exportSeconds": 3.5728087000000013,
+  "expectedPieces": 48,
+  "pageCount": 2,
+  "pdfBytes": 800281,
+  "pdfPath": "<PROJECT_ROOT>\\data\\stress-12-1795164400969\\exports\\6a616e8d-84b8-43d9-93ab-fe86363206cc\\order-a3.pdf",
+  "manifestPath": "<PROJECT_ROOT>\\data\\stress-12-1795164400969\\exports\\6a616e8d-84b8-43d9-93ab-fe86363206cc\\placement-manifest.json",
+  "completedAt": "2026-11-20T08:47:06.825Z",
+  "totalSeconds": 24.6980264,
+  "peakNodeWorkerRssBytes": 223662080,
+  "peakNodeWorkerHeapBytes": 90607408,
+  "memoryMeasurement": "Worker Node process RSS sampled every second through IPC. Chromium child-process memory and between-sample spikes are not included.",
+  "passed": true
+}

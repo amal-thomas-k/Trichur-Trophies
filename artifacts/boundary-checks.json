@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "checkedAt": "2026-11-20T11:03:59.437Z",
+  "transport": "Actual server handler and storage; TCP substituted",
+  "checks": [
+    "Actual decoded template thumbnail is private and dimension-bounded",
+    "Publication rejects duplicate field definitions",
+    "Explicit empty heading is retained for staff-approved fixed heading artwork",
+    "Storage admission failure is actionable and preserves the saved entry",
+    "All 23 original reference file SHA-256 hashes are unchanged"
+  ]
+}

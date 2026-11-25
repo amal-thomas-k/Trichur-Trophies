@@ -1,0 +1,7 @@
+{
+  "passed": false,
+  "interface": "<SHOP_LAN_IP>",
+  "error": "TimeoutError",
+  "detail": "The operation was aborted due to timeout",
+  "scope": "LAN request from this process. Check the printed URL from a phone on the shop Wi-Fi. Check firewall, network isolation and the configured proxy."
+}

@@ -1,0 +1,84 @@
+{
+  "startedAt": "2026-11-20T10:54:48.078Z",
+  "transport": "Playwright request routing to actual server handler; only loopback TCP substituted",
+  "checks": [
+    {
+      "name": "customer token exchanged and removed from address",
+      "status": "passed"
+    },
+    {
+      "name": "photo-first entry offers unconfirmed descriptive filename",
+      "status": "passed"
+    },
+    {
+      "name": "draft text, photo and crop survive reload and app-switch event",
+      "status": "passed"
+    },
+    {
+      "name": "entry layout 360px has no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "entry layout 390px has no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "entry layout 768px has no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "Save and add next clears photograph/name/achievement/crop without duplicates",
+      "status": "passed"
+    },
+    {
+      "name": "name-first entry keeps name; generic filename has no suggestion",
+      "status": "passed"
+    },
+    {
+      "name": "failed upload remains a recoverable draft and never claims order saved",
+      "status": "passed"
+    },
+    {
+      "name": "sorting retains stable photo/name pairs and truthful counts",
+      "status": "passed"
+    },
+    {
+      "name": "individual readable proofs generated and reviewed through customer UI",
+      "status": "passed"
+    },
+    {
+      "name": "organiser approves exact saved snapshot through customer UI",
+      "status": "passed"
+    },
+    {
+      "name": "Malayalam UI string switch is present",
+      "status": "passed"
+    },
+    {
+      "name": "staff queues actual A3 PDF and browser receives completed artifact bytes",
+      "status": "passed"
+    }
+  ],
+  "screenshots": [
+    "customer-entry-360.png",
+    "customer-entry-390.png",
+    "customer-entry-768.png",
+    "customer-approved-390.png",
+    "customer-malayalam-390.png",
+    "staff-production-1440.png"
+  ],
+  "errors": [],
+  "webkit": "not installed; not tested",
+  "chromium": "157.0.8103.79",
+  "pdf": {
+    "bytes": 99294,
+    "pages": 1,
+    "widthMm": 297,
+    "heightMm": 420,
+    "browserDownload": false,
+    "downloadFailure": "download.saveAs: canceled",
+    "delivery": "authenticated same-origin browser fetch after host cancelled download manager"
+  },
+  "status": "passed",
+  "finishedAt": "2026-11-20T10:55:00.910Z"
+}

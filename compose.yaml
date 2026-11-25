@@ -1,0 +1,42 @@
+services:
+  web:
+    build: .
+    init: true
+    restart: unless-stopped
+    environment: &app-environment
+      NODE_ENV: production
+      HOST: 0.0.0.0
+      PORT: 3000
+      BASE_URL: ${BASE_URL:-http://localhost:3000}
+      DATA_DIR: /app/data
+      PLAYWRIGHT_BROWSERS_PATH: /ms-playwright
+      REQUIRE_BUNDLED_FONTS: "1"
+      TT_OFFLINE_RENDERING: "1"
+      MAX_UPLOAD_MB: ${MAX_UPLOAD_MB:-20}
+      MAX_IMAGE_PIXELS: ${MAX_IMAGE_PIXELS:-50000000}
+      MIN_FREE_STORAGE_MB: ${MIN_FREE_STORAGE_MB:-10}
+      JOB_TIMEOUT_MS: ${JOB_TIMEOUT_MS:-900000}
+      JOB_MAX_ATTEMPTS: ${JOB_MAX_ATTEMPTS:-3}
+      RETENTION_DAYS: ${RETENTION_DAYS:-365}
+    ports:
+      - "127.0.0.1:3000:3000"
+    volumes:
+      - production-data:/app/data
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3000/api/health').then(r=>{if(!r.ok)process.exit(1)}).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+    stop_grace_period: 30s
+  worker:
+    build: .
+    init: true
+    restart: unless-stopped
+    command: ["node", "src/worker.js"]
+    environment:
+      <<: *app-environment
+    volumes:
+      - production-data:/app/data
+    stop_grace_period: 60s
+volumes:
+  production-data:

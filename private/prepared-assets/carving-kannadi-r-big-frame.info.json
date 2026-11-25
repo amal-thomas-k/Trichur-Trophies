@@ -1,0 +1,221 @@
+{
+  "source_file": "Design Templates/CARVING KANNADI R BIG.psd",
+  "source_sha256": "36283174e7eca9cca799d1c4d832ae2166465611e27af154e0a66c58a92f691b",
+  "source_canvas_px": [
+    2953,
+    2953
+  ],
+  "source_dpi": [
+    300,
+    300
+  ],
+  "source_canvas_mm": [
+    250.020667,
+    250.020667
+  ],
+  "physical_cut_calibrated": false,
+  "prepared_frame": "private/prepared-assets/carving-kannadi-r-big-frame.png",
+  "prepared_frame_sha256": "fdb55822c4ec5e9f685a0da0803c4768ad39651451df007f34c9bd213609579e",
+  "retained_layers": [
+    {
+      "layer_index": 9,
+      "bounds_px": [
+        9,
+        5,
+        2951,
+        2948
+      ],
+      "overlay_rgb": [
+        7,
+        110,
+        172
+      ],
+      "overlay_rgb16": [
+        1800,
+        28270,
+        44203
+      ],
+      "overlay_opacity": 255
+    },
+    {
+      "layer_index": 10,
+      "bounds_px": [
+        52,
+        44,
+        2909,
+        2909
+      ],
+      "overlay_rgb": [
+        7,
+        110,
+        172
+      ],
+      "overlay_rgb16": [
+        1800,
+        28270,
+        44203
+      ],
+      "overlay_opacity": 255
+    }
+  ],
+  "excluded_layers": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "frame_description": "Transparent original outer circular ring and inner triangular/circular decoration. Original temple, photo, text and square canvas outline excluded. RGB normal colour overlay from PSD applied to retained layer alpha.",
+  "source_export_comparison": {
+    "opaque_pixels": 658655,
+    "exact_rgb_match_pixels": 658655,
+    "maximum_channel_difference": 0,
+    "mean_absolute_channel_difference": 0
+  },
+  "source_geometry": {
+    "old_background_image": {
+      "layer_index": 2,
+      "bounds_px": [
+        215,
+        261,
+        2739,
+        1693
+      ],
+      "x_mm": 18.203333333333333,
+      "y_mm": 22.098,
+      "width_mm": 213.69866666666667,
+      "height_mm": 121.24266666666665
+    },
+    "white_photo_backing": {
+      "layer_index": 3,
+      "bounds_px": [
+        995,
+        1383,
+        1957,
+        2348
+      ],
+      "x_mm": 84.24333333333334,
+      "y_mm": 117.094,
+      "width_mm": 81.44933333333333,
+      "height_mm": 81.70333333333333
+    },
+    "photo_mask": {
+      "layer_index": 4,
+      "bounds_px": [
+        1040,
+        1430,
+        1920,
+        2310
+      ],
+      "x_mm": 88.05333333333333,
+      "y_mm": 121.07333333333334,
+      "width_mm": 74.50666666666666,
+      "height_mm": 74.50666666666666
+    },
+    "old_photo_source_layer": {
+      "layer_index": 5,
+      "bounds_px": [
+        989,
+        1425,
+        1997,
+        2991
+      ],
+      "x_mm": 83.73533333333333,
+      "y_mm": 120.65,
+      "width_mm": 85.344,
+      "height_mm": 132.588
+    },
+    "name_text": {
+      "layer_index": 6,
+      "bounds_px": [
+        1070,
+        2419,
+        1882,
+        2518
+      ],
+      "x_mm": 90.59333333333333,
+      "y_mm": 204.80866666666665,
+      "width_mm": 68.74933333333333,
+      "height_mm": 8.382
+    },
+    "subtitle_text": {
+      "layer_index": 7,
+      "bounds_px": [
+        1184,
+        2553,
+        1774,
+        2629
+      ],
+      "x_mm": 100.24533333333333,
+      "y_mm": 216.154,
+      "width_mm": 49.95333333333333,
+      "height_mm": 6.434666666666666
+    },
+    "old_curved_heading": {
+      "layer_index": 8,
+      "bounds_px": [
+        554,
+        342,
+        2405,
+        875
+      ],
+      "x_mm": 46.90533333333333,
+      "y_mm": 28.955999999999996,
+      "width_mm": 156.718,
+      "height_mm": 45.12733333333333
+    },
+    "outer_circle": {
+      "layer_index": 9,
+      "bounds_px": [
+        9,
+        5,
+        2951,
+        2948
+      ],
+      "x_mm": 0.762,
+      "y_mm": 0.42333333333333334,
+      "width_mm": 249.08933333333334,
+      "height_mm": 249.17399999999998
+    },
+    "triangle_ring": {
+      "layer_index": 10,
+      "bounds_px": [
+        52,
+        44,
+        2909,
+        2909
+      ],
+      "x_mm": 4.402666666666667,
+      "y_mm": 3.725333333333333,
+      "width_mm": 241.89266666666668,
+      "height_mm": 242.57
+    }
+  },
+  "title_status": "Original curved heading is legacy Malayalam. The requested new English title must be rendered separately, as an approved fixed curved asset or a tested whole-string SVG textPath; it is not part of this frame.",
+  "limitations": [
+    "Source canvas is not a verified physical cutting dimension.",
+    "Border effects reproduce only the verified solid colour overlay and existing raster alpha; no general PSD effect fidelity is claimed.",
+    "Original portrait source is a clipped layer. New photos should use the original circular mask geometry, not its larger source bounds.",
+    "This utility does not prepare any final batch or approve an order."
+  ],
+  "requested_source_assets": [
+    {
+      "file": "Work 1/jyothi-engineering-college-office.jpg",
+      "width_px": 640,
+      "height_px": 480,
+      "colour_mode": "RGB",
+      "sha256": "4f7c1592ead9cd15bc484ccfc566a65b25f9e295209bca38f76e3bc94ac819c3"
+    },
+    {
+      "file": "Work 1/Jyothi Logo.png",
+      "width_px": 1394,
+      "height_px": 2072,
+      "colour_mode": "RGBA",
+      "sha256": "413a292ce66bf2edbc1045bdec11eb7802e1934044b368dc3c7473804299742a"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "startedAt": "2026-11-24T18:39:07.761Z",
+  "transport": "HTTP",
+  "checks": [
+    {
+      "name": "customer token exchanged and removed from address",
+      "status": "passed"
+    },
+    {
+      "name": "photo-first entry offers unconfirmed descriptive filename",
+      "status": "passed"
+    },
+    {
+      "name": "draft text, photo and crop survive reload and app-switch event",
+      "status": "passed"
+    },
+    {
+      "name": "secure localhost installs token-free PWA manifest and static-only service worker",
+      "status": "passed"
+    },
+    {
+      "name": "offline reload restores the same unsynced photo/name/crop without falsely saving",
+      "status": "passed"
+    },
+    {
+      "name": "install guidance opens without claiming installation completed",
+      "status": "passed"
+    },
+    {
+      "name": "explicit service-worker update preserves the unsynced photo/name/crop",
+      "status": "passed"
+    },
+    {
+      "name": "entry layout 360px has no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "entry layout 390px has no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "entry layout 768px has no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "Save and add next clears photograph/name/achievement/crop without duplicates",
+      "status": "passed"
+    },
+    {
+      "name": "name-first entry keeps name; generic filename has no suggestion",
+      "status": "passed"
+    },
+    {
+      "name": "failed upload remains a recoverable draft and never claims order saved",
+      "status": "passed"
+    },
+    {
+      "name": "sorting retains stable photo/name pairs and truthful counts",
+      "status": "passed"
+    },
+    {
+      "name": "individual readable proofs generated and reviewed through customer UI",
+      "status": "passed"
+    },
+    {
+      "name": "organiser approves exact saved snapshot through customer UI",
+      "status": "passed"
+    },
+    {
+      "name": "Malayalam UI string switch is present",
+      "status": "passed"
+    },
+    {
+      "name": "QR generation requires staff authentication and an active same-host order link",
+      "status": "passed"
+    },
+    {
+      "name": "staff sharing dialog displays a loaded order QR",
+      "status": "passed"
+    },
+    {
+      "name": "staff queues actual A3 PDF and browser receives completed artifact bytes",
+      "status": "passed"
+    },
+    {
+      "name": "installed-app style start re-enters and switches private orders without persisting URL credentials",
+      "status": "passed"
+    }
+  ],
+  "screenshots": [
+    "customer-offline-390.png",
+    "customer-entry-360.png",
+    "customer-entry-390.png",
+    "customer-entry-768.png",
+    "customer-approved-390.png",
+    "customer-malayalam-390.png",
+    "staff-production-1440.png"
+  ],
+  "errors": [],
+  "webkit": "not installed; not tested",
+  "externalApplicationRequests": [],
+  "deviceMode": "Chromium touch/mobile emulation; not a real Android or iPhone",
+  "chromium": "158.0.8127.88",
+  "pwa": {
+    "secureContext": true,
+    "scope": "http://127.0.0.1:52831/",
+    "manifest": {
+      "id": "/",
+      "name": "Trichur Trophies — Personalise & Print",
+      "short_name": "Trichur Trophies",
+      "description": "Personalise your trophy order and check its print proof.",
+      "lang": "en",
+      "start_url": "/",
+      "scope": "/",
+      "display": "standalone",
+      "background_color": "#f6f4ee",
+      "theme_color": "#142b38",
+      "icons": [
+        {
+          "src": "/icons/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any"
+        },
+        {
+          "src": "/icons/icon-512.png",
+          "sizes": "512x512",
+          "type": "image/png",
+          "purpose": "any"
+        },
+        {
+          "src": "/icons/icon-maskable-512.png",
+          "sizes": "512x512",
+          "type": "image/png",
+          "purpose": "maskable"
+        }
+      ]
+    },
+    "cachePaths": [
+      "/index.html",
+      "/app.js",
+      "/draft-store.js",
+      "/style.css",
+      "/pwa.js",
+      "/pwa.css",
+      "/manifest.webmanifest",
+      "/icons/icon-192.png",
+      "/icons/icon-512.png",
+      "/icons/icon-maskable-512.png",
+      "/icons/apple-touch-icon.png",
+      "/fonts/NotoSansMalayalam.ttf"
+    ],
+    "explicitUpdatePreservedDraft": true
+  },
+  "pdf": {
+    "bytes": 99286,
+    "pages": 1,
+    "widthMm": 297,
+    "heightMm": 420,
+    "browserDownload": true,
+    "downloadFailure": null,
+    "delivery": "browser download manager"
+  },
+  "status": "passed",
+  "finishedAt": "2026-11-24T18:39:32.939Z"
+}

@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "comparisons": [
+    {
+      "key": "അമൽ 001:front",
+      "identical": true,
+      "sha256": "329ff0d99fde35f0d9c53cffb7cccbac9366fdd11e35319bc66d3e74d6abd540"
+    },
+    {
+      "key": "അമൽ 001:base",
+      "identical": true,
+      "sha256": "d0628e398c1ed5d1837f144d317343cef9f54a1ff0ce31f6f8f398f40f7fac7a"
+    },
+    {
+      "key": "Test 002:front",
+      "identical": true,
+      "sha256": "1d701c2d0d8b508150a6188389e0e69c24e26998d14a9128dc6d790f0e72c42b"
+    },
+    {
+      "key": "Test 002:base",
+      "identical": true,
+      "sha256": "b3ed6b73a2dbd171221db6bc67591a65fc25ec6051ce3416586d32ced81afde9"
+    }
+  ]
+}

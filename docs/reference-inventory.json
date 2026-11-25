@@ -1,0 +1,5030 @@
+{
+  "note": "Original recipient text and layer names redacted. Dimensions describe source canvas only; physical cut shapes and sizes remain unverified.",
+  "source_spec": "https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/",
+  "files": [
+    {
+      "file": "2091 NEW A.psd",
+      "bytes": 196497,
+      "sha256": "69fdc726ea970fca358f101d92ed2fcf0dab2eeb31f19c7ade424d16099104c0",
+      "width_px": 567,
+      "height_px": 756,
+      "channels": 4,
+      "depth": 8,
+      "colour_mode": "RGB",
+      "dpi": [
+        300,
+        300
+      ],
+      "image_resource_ids": [
+        1061,
+        1060,
+        1005,
+        1062,
+        1006,
+        1045,
+        1007,
+        1053,
+        1037,
+        1049,
+        1011,
+        1034,
+        10000,
+        1013,
+        1016,
+        1024,
+        1026,
+        1032,
+        1054,
+        1050,
+        1041,
+        1044,
+        1036,
+        1057,
+        1058,
+        1025
+      ],
+      "layers": [
+        {
+          "index": 0,
+          "name": "layer-00",
+          "bounds_px": [
+            0,
+            0,
+            565,
+            756
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 15120,
+              "offset": 9310
+            },
+            {
+              "id": 0,
+              "length": 9074,
+              "offset": 24430
+            },
+            {
+              "id": 1,
+              "length": 9074,
+              "offset": 33504
+            },
+            {
+              "id": 2,
+              "length": 9074,
+              "offset": 42578
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 1,
+          "name": "layer-01",
+          "bounds_px": [
+            0,
+            0,
+            565,
+            756
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 21154,
+              "offset": 51652
+            },
+            {
+              "id": 0,
+              "length": 15042,
+              "offset": 72806
+            },
+            {
+              "id": 1,
+              "length": 15042,
+              "offset": 87848
+            },
+            {
+              "id": 2,
+              "length": 15042,
+              "offset": 102890
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        }
+      ],
+      "layer_count": 2,
+      "fonts": [],
+      "unicode_malayalam_text_detected": false,
+      "source_canvas_mm": [
+        48.006,
+        64.008
+      ],
+      "physical_cut_calibrated": false
+    },
+    {
+      "file": "479 C copy.png",
+      "bytes": 1485791,
+      "sha256": "e55641d33cb6cb355718943d67b2bc3b6407160084e7f14578f958a06a165c0b",
+      "width_px": 1004,
+      "height_px": 1843,
+      "colour_mode": "RGBA",
+      "format": "PNG",
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "icc_profile_bytes": 0
+    },
+    {
+      "file": "479 C.psd",
+      "bytes": 6573987,
+      "sha256": "0d564409da081d83a54b0d1db7b1816ecec9e65ca4129c53178604f724946da3",
+      "width_px": 1004,
+      "height_px": 1843,
+      "channels": 4,
+      "depth": 8,
+      "colour_mode": "RGB",
+      "dpi": [
+        300,
+        300
+      ],
+      "image_resource_ids": [
+        1061,
+        1060,
+        1005,
+        1062,
+        1006,
+        1045,
+        1007,
+        1053,
+        1037,
+        1049,
+        1011,
+        1034,
+        10000,
+        1013,
+        1016,
+        1024,
+        1026,
+        1032,
+        1054,
+        1050,
+        1041,
+        1044,
+        1036,
+        1057,
+        1058,
+        1025
+      ],
+      "layers": [
+        {
+          "index": 0,
+          "name": "layer-00",
+          "bounds_px": [
+            0,
+            0,
+            1004,
+            1843
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 41704,
+              "offset": 209108
+            },
+            {
+              "id": 0,
+              "length": 33176,
+              "offset": 250812
+            },
+            {
+              "id": 1,
+              "length": 33176,
+              "offset": 283988
+            },
+            {
+              "id": 2,
+              "length": 33176,
+              "offset": 317164
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 1,
+          "name": "layer-01",
+          "bounds_px": [
+            -118,
+            428,
+            1122,
+            2141
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 38750,
+              "offset": 350340
+            },
+            {
+              "id": 0,
+              "length": 37688,
+              "offset": 389090
+            },
+            {
+              "id": 1,
+              "length": 38336,
+              "offset": 426778
+            },
+            {
+              "id": 2,
+              "length": 38336,
+              "offset": 465114
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 2,
+          "name": "layer-02",
+          "bounds_px": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 2,
+              "offset": 503450
+            },
+            {
+              "id": 0,
+              "length": 2,
+              "offset": 503452
+            },
+            {
+              "id": 1,
+              "length": 2,
+              "offset": 503454
+            },
+            {
+              "id": 2,
+              "length": 2,
+              "offset": 503456
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 3,
+          "name": "layer-03",
+          "bounds_px": [
+            32,
+            91,
+            979,
+            1904
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 53266,
+              "offset": 503458
+            },
+            {
+              "id": 0,
+              "length": 34086,
+              "offset": 556724
+            },
+            {
+              "id": 1,
+              "length": 34086,
+              "offset": 590810
+            },
+            {
+              "id": 2,
+              "length": 34086,
+              "offset": 624896
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 4,
+          "name": "layer-04",
+          "bounds_px": [
+            321,
+            764,
+            688,
+            1341
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 82100,
+              "offset": 658982
+            },
+            {
+              "id": 0,
+              "length": 167357,
+              "offset": 741082
+            },
+            {
+              "id": 1,
+              "length": 168114,
+              "offset": 908439
+            },
+            {
+              "id": 2,
+              "length": 169358,
+              "offset": 1076553
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 5,
+          "name": "layer-05",
+          "bounds_px": [
+            51,
+            534,
+            969,
+            595
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "Aladin-Regular",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 20025,
+              "offset": 1245911
+            },
+            {
+              "id": 0,
+              "length": 1100,
+              "offset": 1265936
+            },
+            {
+              "id": 1,
+              "length": 1100,
+              "offset": 1267036
+            },
+            {
+              "id": 2,
+              "length": 1100,
+              "offset": 1268136
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "7eb0bfdc171859e508d1be24b16e034a94ed64f3958b127b06d64f170a8a19c0",
+              "character_count": 30,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "name": "layer-06",
+          "bounds_px": [
+            246,
+            1390,
+            758,
+            1539
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 6178,
+              "offset": 1269236
+            },
+            {
+              "id": 0,
+              "length": 54385,
+              "offset": 1275414
+            },
+            {
+              "id": 1,
+              "length": 54360,
+              "offset": 1329799
+            },
+            {
+              "id": 2,
+              "length": 55028,
+              "offset": 1384159
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 7,
+          "name": "layer-07",
+          "bounds_px": [
+            319,
+            1439,
+            694,
+            1492
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "Aileron-Bold",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 4346,
+              "offset": 1439187
+            },
+            {
+              "id": 0,
+              "length": 532,
+              "offset": 1443533
+            },
+            {
+              "id": 1,
+              "length": 532,
+              "offset": 1444065
+            },
+            {
+              "id": 2,
+              "length": 532,
+              "offset": 1444597
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "d65854475d0c515dff8f847346e3a984e615e773b2356d8021e7769acce1dc5b",
+              "character_count": 10,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "name": "layer-08",
+          "bounds_px": [
+            115,
+            1543,
+            903,
+            1604
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "Aileron-Bold",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 13874,
+              "offset": 1445129
+            },
+            {
+              "id": 0,
+              "length": 1100,
+              "offset": 1459003
+            },
+            {
+              "id": 1,
+              "length": 1100,
+              "offset": 1460103
+            },
+            {
+              "id": 2,
+              "length": 1100,
+              "offset": 1461203
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "fcbbc3eae417f361dabdc4a1e6e402bd2969fe7b5e635ab25aa8f6f2b77967ca",
+              "character_count": 34,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "name": "layer-09",
+          "bounds_px": [
+            140,
+            1620,
+            868,
+            1659
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "Aileron-Bold",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 10344,
+              "offset": 1462303
+            },
+            {
+              "id": 0,
+              "length": 548,
+              "offset": 1472647
+            },
+            {
+              "id": 1,
+              "length": 548,
+              "offset": 1473195
+            },
+            {
+              "id": 2,
+              "length": 548,
+              "offset": 1473743
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "a0f31c67acdd6f489167b8b86ea05fe96764df5640deb62a26ca65b3c8aa3469",
+              "character_count": 26,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "name": "layer-10",
+          "bounds_px": [
+            49,
+            1699,
+            975,
+            1756
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "MonotypeCorsiva",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 16346,
+              "offset": 1474291
+            },
+            {
+              "id": 0,
+              "length": 1028,
+              "offset": 1490637
+            },
+            {
+              "id": 1,
+              "length": 1028,
+              "offset": 1491665
+            },
+            {
+              "id": 2,
+              "length": 1028,
+              "offset": 1492693
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "d3736b50095f66c7687635e4ebc2589e70089f270d63fe1f6d30e51ecf9c6b51",
+              "character_count": 53,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "name": "layer-11",
+          "bounds_px": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "CassandraPersonalUse-Regular",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 2,
+              "offset": 1493721
+            },
+            {
+              "id": 0,
+              "length": 2,
+              "offset": 1493723
+            },
+            {
+              "id": 1,
+              "length": 2,
+              "offset": 1493725
+            },
+            {
+              "id": 2,
+              "length": 2,
+              "offset": 1493727
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+              "character_count": 0,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "name": "layer-12",
+          "bounds_px": [
+            352,
+            1765,
+            650,
+            1801
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "Aileron-Bold",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 4347,
+              "offset": 1493729
+            },
+            {
+              "id": 0,
+              "length": 362,
+              "offset": 1498076
+            },
+            {
+              "id": 1,
+              "length": 362,
+              "offset": 1498438
+            },
+            {
+              "id": 2,
+              "length": 362,
+              "offset": 1498800
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "8c78312cca11e901f249199f1e6a4ef17c0bf92afaf79c9a6aac9db93deb02fd",
+              "character_count": 19,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "name": "layer-13",
+          "bounds_px": [
+            368,
+            615,
+            649,
+            665
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "Aileron-Bold",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 3779,
+              "offset": 1499162
+            },
+            {
+              "id": 0,
+              "length": 502,
+              "offset": 1502941
+            },
+            {
+              "id": 1,
+              "length": 502,
+              "offset": 1503443
+            },
+            {
+              "id": 2,
+              "length": 502,
+              "offset": 1503945
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "fe899de80e62ff735854b001a98414ca96ddf18afeef77b0b3bfd75418baf7a5",
+              "character_count": 7,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "name": "layer-14",
+          "bounds_px": [
+            151,
+            687,
+            859,
+            1383
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 37818,
+              "offset": 1504447
+            },
+            {
+              "id": 0,
+              "length": 260000,
+              "offset": 1542265
+            },
+            {
+              "id": 1,
+              "length": 265963,
+              "offset": 1802265
+            },
+            {
+              "id": 2,
+              "length": 265274,
+              "offset": 2068228
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 15,
+          "name": "layer-15",
+          "bounds_px": [
+            -53,
+            4,
+            1063,
+            562
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 29835,
+              "offset": 2333502
+            },
+            {
+              "id": 0,
+              "length": 487534,
+              "offset": 2363337
+            },
+            {
+              "id": 1,
+              "length": 484135,
+              "offset": 2850871
+            },
+            {
+              "id": 2,
+              "length": 487174,
+              "offset": 3335006
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 16,
+          "name": "layer-16",
+          "bounds_px": [
+            357,
+            168,
+            656,
+            218
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "Aileron-Bold",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 3900,
+              "offset": 3822180
+            },
+            {
+              "id": 0,
+              "length": 502,
+              "offset": 3826080
+            },
+            {
+              "id": 1,
+              "length": 502,
+              "offset": 3826582
+            },
+            {
+              "id": 2,
+              "length": 502,
+              "offset": 3827084
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "a46790adc08fc96a3c3e68ff52fa08d4fc96b6d02c6bc8bbf2145c4cef340062",
+              "character_count": 6,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "name": "layer-17",
+          "bounds_px": [
+            39,
+            81,
+            969,
+            138
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "Aileron-Bold",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 14814,
+              "offset": 3827586
+            },
+            {
+              "id": 0,
+              "length": 1028,
+              "offset": 3842400
+            },
+            {
+              "id": 1,
+              "length": 1028,
+              "offset": 3843428
+            },
+            {
+              "id": 2,
+              "length": 1028,
+              "offset": 3844456
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "670669986f44292d5431373fd13f47f2c04784b3ec1a57dbba43c6c6de243171",
+              "character_count": 24,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "name": "layer-18",
+          "bounds_px": [
+            -3,
+            0,
+            1006,
+            1843
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 60355,
+              "offset": 3845484
+            },
+            {
+              "id": 0,
+              "length": 33176,
+              "offset": 3905839
+            },
+            {
+              "id": 1,
+              "length": 33176,
+              "offset": 3939015
+            },
+            {
+              "id": 2,
+              "length": 33176,
+              "offset": 3972191
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        }
+      ],
+      "layer_count": 19,
+      "fonts": [
+        "Aileron-Bold",
+        "Aladin-Regular",
+        "CassandraPersonalUse-Regular",
+        "MonotypeCorsiva",
+        "TimesNewRomanPSMT"
+      ],
+      "unicode_malayalam_text_detected": false,
+      "source_canvas_mm": [
+        85.005333,
+        156.040667
+      ],
+      "physical_cut_calibrated": false
+    },
+    {
+      "file": "492 C 4 copy.jpg",
+      "bytes": 425881,
+      "sha256": "e57d379b4c16d8dd91bec871607c7aeb5881ed7725fc956dcf31488e769d0b12",
+      "width_px": 1157,
+      "height_px": 1547,
+      "colour_mode": "RGB",
+      "format": "JPEG",
+      "dpi": [
+        300,
+        300
+      ],
+      "icc_profile_bytes": 0
+    },
+    {
+      "file": "492 C 4 copy.png",
+      "bytes": 1626772,
+      "sha256": "42b1461971bf545fdbcb10dc9c00b4f28984e1095ad049a2b126a6067a7e5b25",
+      "width_px": 1157,
+      "height_px": 1547,
+      "colour_mode": "RGBA",
+      "format": "PNG",
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "icc_profile_bytes": 0
+    },
+    {
+      "file": "492 C 4.psd",
+      "bytes": 13534063,
+      "sha256": "2dc26eb825dd4a865e08d191ad9491837b78083a7f6ea8d076990212a8af1b04",
+      "width_px": 1157,
+      "height_px": 1547,
+      "channels": 4,
+      "depth": 8,
+      "colour_mode": "RGB",
+      "dpi": [
+        300,
+        300
+      ],
+      "image_resource_ids": [
+        1061,
+        1060,
+        1005,
+        1062,
+        1006,
+        1045,
+        1007,
+        1053,
+        1037,
+        1049,
+        1011,
+        1034,
+        10000,
+        1013,
+        1016,
+        1024,
+        1026,
+        1032,
+        1054,
+        1050,
+        1041,
+        1044,
+        1036,
+        1057,
+        1058,
+        1025
+      ],
+      "layers": [
+        {
+          "index": 0,
+          "name": "layer-00",
+          "bounds_px": [
+            0,
+            0,
+            1157,
+            1547
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 34812,
+              "offset": 112424
+            },
+            {
+              "id": 0,
+              "length": 34036,
+              "offset": 147236
+            },
+            {
+              "id": 1,
+              "length": 34812,
+              "offset": 181272
+            },
+            {
+              "id": 2,
+              "length": 34812,
+              "offset": 216084
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 1,
+          "name": "layer-01",
+          "bounds_px": [
+            -447,
+            -85,
+            1612,
+            1549
+          ],
+          "visible": false,
+          "opacity": 255,
+          "blend_mode": "dark",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 88207,
+              "offset": 250896
+            },
+            {
+              "id": 0,
+              "length": 1198304,
+              "offset": 339103
+            },
+            {
+              "id": 1,
+              "length": 1186219,
+              "offset": 1537407
+            },
+            {
+              "id": 2,
+              "length": 1208190,
+              "offset": 2723626
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 2,
+          "name": "layer-02",
+          "bounds_px": [
+            -549,
+            153,
+            742,
+            1736
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "dark",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 52101,
+              "offset": 3931816
+            },
+            {
+              "id": 0,
+              "length": 558135,
+              "offset": 3983917
+            },
+            {
+              "id": 1,
+              "length": 558531,
+              "offset": 4542052
+            },
+            {
+              "id": 2,
+              "length": 564082,
+              "offset": 5100583
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 3,
+          "name": "layer-03",
+          "bounds_px": [
+            411,
+            153,
+            1702,
+            1736
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "dark",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 52109,
+              "offset": 5664665
+            },
+            {
+              "id": 0,
+              "length": 584922,
+              "offset": 5716774
+            },
+            {
+              "id": 1,
+              "length": 586226,
+              "offset": 6301696
+            },
+            {
+              "id": 2,
+              "length": 593701,
+              "offset": 6887922
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 4,
+          "name": "layer-04",
+          "bounds_px": [
+            207,
+            262,
+            907,
+            962
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 24993,
+              "offset": 7481623
+            },
+            {
+              "id": 0,
+              "length": 267935,
+              "offset": 7506616
+            },
+            {
+              "id": 1,
+              "length": 268056,
+              "offset": 7774551
+            },
+            {
+              "id": 2,
+              "length": 268522,
+              "offset": 8042607
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 5,
+          "name": "layer-05",
+          "bounds_px": [
+            268,
+            323,
+            846,
+            902
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 12894,
+              "offset": 8311129
+            },
+            {
+              "id": 0,
+              "length": 6950,
+              "offset": 8324023
+            },
+            {
+              "id": 1,
+              "length": 7020,
+              "offset": 8330973
+            },
+            {
+              "id": 2,
+              "length": 7020,
+              "offset": 8337993
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 6,
+          "name": "layer-06",
+          "bounds_px": [
+            251,
+            265,
+            1024,
+            1187
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 1,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 14754,
+              "offset": 8345013
+            },
+            {
+              "id": 0,
+              "length": 672480,
+              "offset": 8359767
+            },
+            {
+              "id": 1,
+              "length": 672228,
+              "offset": 9032247
+            },
+            {
+              "id": 2,
+              "length": 672473,
+              "offset": 9704475
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 7,
+          "name": "layer-07",
+          "bounds_px": [
+            158,
+            974,
+            1001,
+            1141
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 22285,
+              "offset": 10376948
+            },
+            {
+              "id": 0,
+              "length": 46447,
+              "offset": 10399233
+            },
+            {
+              "id": 1,
+              "length": 46447,
+              "offset": 10445680
+            },
+            {
+              "id": 2,
+              "length": 46447,
+              "offset": 10492127
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 8,
+          "name": "layer-08",
+          "bounds_px": [
+            330,
+            1019,
+            826,
+            1101
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "ML-TTAathira-Bold",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 10687,
+              "offset": 10538574
+            },
+            {
+              "id": 0,
+              "length": 986,
+              "offset": 10549261
+            },
+            {
+              "id": 1,
+              "length": 986,
+              "offset": 10550247
+            },
+            {
+              "id": 2,
+              "length": 986,
+              "offset": 10551233
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "a7fb52422fd36fbaeb3802b631d5bb145a09bb8c49ad5c89d5ac9ed3286c961c",
+              "character_count": 12,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "name": "layer-09",
+          "bounds_px": [
+            446,
+            1150,
+            710,
+            1203
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "ML-TTAathira-Bold",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 5665,
+              "offset": 10552219
+            },
+            {
+              "id": 0,
+              "length": 426,
+              "offset": 10557884
+            },
+            {
+              "id": 1,
+              "length": 426,
+              "offset": 10558310
+            },
+            {
+              "id": 2,
+              "length": 426,
+              "offset": 10558736
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "e052643579be35a97612dce52a3b74d0edf75bf16e166851fa7a39b547cce3c7",
+              "character_count": 8,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "name": "layer-10",
+          "bounds_px": [
+            301,
+            1235,
+            855,
+            1384
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 16359,
+              "offset": 10559162
+            },
+            {
+              "id": 0,
+              "length": 52815,
+              "offset": 10575521
+            },
+            {
+              "id": 1,
+              "length": 58426,
+              "offset": 10628336
+            },
+            {
+              "id": 2,
+              "length": 58375,
+              "offset": 10686762
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 11,
+          "name": "layer-11",
+          "bounds_px": [
+            0,
+            1396,
+            1157,
+            1547
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 3712,
+              "offset": 10745137
+            },
+            {
+              "id": 0,
+              "length": 3324,
+              "offset": 10748849
+            },
+            {
+              "id": 1,
+              "length": 3324,
+              "offset": 10752173
+            },
+            {
+              "id": 2,
+              "length": 3324,
+              "offset": 10755497
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 12,
+          "name": "layer-12",
+          "bounds_px": [
+            83,
+            47,
+            1074,
+            248
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "ML-TTNanditha-Bold",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 39640,
+              "offset": 10758821
+            },
+            {
+              "id": 0,
+              "length": 4022,
+              "offset": 10798461
+            },
+            {
+              "id": 1,
+              "length": 4022,
+              "offset": 10802483
+            },
+            {
+              "id": 2,
+              "length": 4022,
+              "offset": 10806505
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "425e589c0acb6152a55c0dcbd68981943cb97ec671553737dcf2fc69fb930311",
+              "character_count": 97,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "name": "layer-13",
+          "bounds_px": [
+            94,
+            1421,
+            1067,
+            1517
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "Arial-BoldMT",
+            "ML-TTPooram-Bold",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 20462,
+              "offset": 10810527
+            },
+            {
+              "id": 0,
+              "length": 1922,
+              "offset": 10830989
+            },
+            {
+              "id": 1,
+              "length": 1922,
+              "offset": 10832911
+            },
+            {
+              "id": 2,
+              "length": 1922,
+              "offset": 10834833
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "ef00913db2daf2c828dea9d51c1938cc69f45808e899e90c95d5ac736933a96e",
+              "character_count": 29,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "name": "layer-14",
+          "bounds_px": [
+            -1,
+            0,
+            1158,
+            1547
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 51385,
+              "offset": 10836755
+            },
+            {
+              "id": 0,
+              "length": 34036,
+              "offset": 10888140
+            },
+            {
+              "id": 1,
+              "length": 34036,
+              "offset": 10922176
+            },
+            {
+              "id": 2,
+              "length": 34036,
+              "offset": 10956212
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        }
+      ],
+      "layer_count": 15,
+      "fonts": [
+        "Arial-BoldMT",
+        "ML-TTAathira-Bold",
+        "ML-TTNanditha-Bold",
+        "ML-TTPooram-Bold",
+        "TimesNewRomanPSMT"
+      ],
+      "unicode_malayalam_text_detected": false,
+      "source_canvas_mm": [
+        97.959333,
+        130.979333
+      ],
+      "physical_cut_calibrated": false
+    },
+    {
+      "file": "492 C R copy.png",
+      "bytes": 246703,
+      "sha256": "af5448492445081a33a3f6ba3acfe5c43a2ac04abfd230c35b8a4bd3a0105578",
+      "width_px": 720,
+      "height_px": 720,
+      "colour_mode": "RGBA",
+      "format": "PNG",
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "icc_profile_bytes": 0
+    },
+    {
+      "file": "492 C R.psd",
+      "bytes": 1063847,
+      "sha256": "05a012503a804c6b4758d82ed1f105c9f31cab145a0ee24b1d91d42ee659334e",
+      "width_px": 720,
+      "height_px": 720,
+      "channels": 4,
+      "depth": 8,
+      "colour_mode": "RGB",
+      "dpi": [
+        300,
+        300
+      ],
+      "image_resource_ids": [
+        1061,
+        1060,
+        1005,
+        1062,
+        1006,
+        1045,
+        1007,
+        1053,
+        1037,
+        1049,
+        1011,
+        1034,
+        10000,
+        1013,
+        1016,
+        1024,
+        1026,
+        1032,
+        1054,
+        1050,
+        1041,
+        1044,
+        1036,
+        1057,
+        1058
+      ],
+      "layers": [
+        {
+          "index": 0,
+          "name": "layer-00",
+          "bounds_px": [
+            1,
+            1,
+            719,
+            719
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 12658,
+              "offset": 13812
+            },
+            {
+              "id": 0,
+              "length": 10054,
+              "offset": 26470
+            },
+            {
+              "id": 1,
+              "length": 12658,
+              "offset": 36524
+            },
+            {
+              "id": 2,
+              "length": 12658,
+              "offset": 49182
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 1,
+          "name": "layer-01",
+          "bounds_px": [
+            0,
+            0,
+            720,
+            720
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 46295,
+              "offset": 61840
+            },
+            {
+              "id": 0,
+              "length": 166134,
+              "offset": 108135
+            },
+            {
+              "id": 1,
+              "length": 153063,
+              "offset": 274269
+            },
+            {
+              "id": 2,
+              "length": 152896,
+              "offset": 427332
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 2,
+          "name": "layer-02",
+          "bounds_px": [
+            1,
+            1,
+            719,
+            719
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 24380,
+              "offset": 580228
+            },
+            {
+              "id": 0,
+              "length": 11142,
+              "offset": 604608
+            },
+            {
+              "id": 1,
+              "length": 11142,
+              "offset": 615750
+            },
+            {
+              "id": 2,
+              "length": 11142,
+              "offset": 626892
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        }
+      ],
+      "layer_count": 3,
+      "fonts": [],
+      "unicode_malayalam_text_detected": false,
+      "source_canvas_mm": [
+        60.96,
+        60.96
+      ],
+      "physical_cut_calibrated": false
+    },
+    {
+      "file": "727 A BASE copy.png",
+      "bytes": 42870,
+      "sha256": "dcdc41d07d1f388737a68062bb4e20aad798788e5c6ac9e96913839dc7c9a992",
+      "width_px": 842,
+      "height_px": 1066,
+      "colour_mode": "RGBA",
+      "format": "PNG",
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "icc_profile_bytes": 0
+    },
+    {
+      "file": "727 A BASE.psd",
+      "bytes": 329658,
+      "sha256": "c9b26416bb394dc3328e50c705e376eb0ee8299bae1b60825f5e76ed7c9e5ad3",
+      "width_px": 842,
+      "height_px": 1066,
+      "channels": 4,
+      "depth": 8,
+      "colour_mode": "RGB",
+      "dpi": [
+        300,
+        300
+      ],
+      "image_resource_ids": [
+        1061,
+        1060,
+        1005,
+        1062,
+        1006,
+        1045,
+        1007,
+        1053,
+        1037,
+        1049,
+        1011,
+        1034,
+        10000,
+        1013,
+        1016,
+        1024,
+        1026,
+        1032,
+        1054,
+        1050,
+        1041,
+        1044,
+        1036,
+        1057,
+        1058
+      ],
+      "layers": [
+        {
+          "index": 0,
+          "name": "layer-00",
+          "bounds_px": [
+            20,
+            3,
+            821,
+            1066
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 25966,
+              "offset": 10206
+            },
+            {
+              "id": 0,
+              "length": 17010,
+              "offset": 36172
+            },
+            {
+              "id": 1,
+              "length": 17010,
+              "offset": 53182
+            },
+            {
+              "id": 2,
+              "length": 17010,
+              "offset": 70192
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 1,
+          "name": "layer-01",
+          "bounds_px": [
+            20,
+            3,
+            822,
+            1066
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 50606,
+              "offset": 87202
+            },
+            {
+              "id": 0,
+              "length": 19186,
+              "offset": 137808
+            },
+            {
+              "id": 1,
+              "length": 19186,
+              "offset": 156994
+            },
+            {
+              "id": 2,
+              "length": 19186,
+              "offset": 176180
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        }
+      ],
+      "layer_count": 2,
+      "fonts": [],
+      "unicode_malayalam_text_detected": false,
+      "source_canvas_mm": [
+        71.289333,
+        90.254667
+      ],
+      "physical_cut_calibrated": false
+    },
+    {
+      "file": "727 A R copy.png",
+      "bytes": 41830,
+      "sha256": "d90bc407dfbeae2a57f05d1251c3c7112319ee1207498b4b96133a4ff120cef9",
+      "width_px": 402,
+      "height_px": 402,
+      "colour_mode": "RGB",
+      "format": "PNG",
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "icc_profile_bytes": 0
+    },
+    {
+      "file": "727 A R.psd",
+      "bytes": 162991,
+      "sha256": "5e38074f98e792b2c6f5e4944612086c764a4610554b42656125c455d751f385",
+      "width_px": 402,
+      "height_px": 402,
+      "channels": 3,
+      "depth": 8,
+      "colour_mode": "RGB",
+      "dpi": [
+        300,
+        300
+      ],
+      "image_resource_ids": [
+        1061,
+        1060,
+        1005,
+        1062,
+        1037,
+        1049,
+        1011,
+        1034,
+        10000,
+        1013,
+        1016,
+        1024,
+        1026,
+        1032,
+        1054,
+        1050,
+        1041,
+        1044,
+        1036,
+        1057,
+        1058,
+        4000,
+        4001,
+        1025
+      ],
+      "layers": [
+        {
+          "index": 0,
+          "name": "layer-00",
+          "bounds_px": [
+            0,
+            0,
+            402,
+            402
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": 0,
+              "length": 4022,
+              "offset": 17296
+            },
+            {
+              "id": 1,
+              "length": 4022,
+              "offset": 21318
+            },
+            {
+              "id": 2,
+              "length": 4022,
+              "offset": 25340
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 1,
+          "name": "layer-01",
+          "bounds_px": [
+            0,
+            0,
+            402,
+            402
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 10109,
+              "offset": 29362
+            },
+            {
+              "id": 0,
+              "length": 4022,
+              "offset": 39471
+            },
+            {
+              "id": 1,
+              "length": 4022,
+              "offset": 43493
+            },
+            {
+              "id": 2,
+              "length": 4022,
+              "offset": 47515
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 2,
+          "name": "layer-02",
+          "bounds_px": [
+            11,
+            13,
+            391,
+            389
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 10981,
+              "offset": 51537
+            },
+            {
+              "id": 0,
+              "length": 3010,
+              "offset": 62518
+            },
+            {
+              "id": 1,
+              "length": 3010,
+              "offset": 65528
+            },
+            {
+              "id": 2,
+              "length": 3010,
+              "offset": 68538
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 3,
+          "name": "layer-03",
+          "bounds_px": [
+            0,
+            0,
+            402,
+            402
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 14470,
+              "offset": 71548
+            },
+            {
+              "id": 0,
+              "length": 4022,
+              "offset": 86018
+            },
+            {
+              "id": 1,
+              "length": 4022,
+              "offset": 90040
+            },
+            {
+              "id": 2,
+              "length": 4022,
+              "offset": 94062
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        }
+      ],
+      "layer_count": 4,
+      "fonts": [],
+      "unicode_malayalam_text_detected": false,
+      "source_canvas_mm": [
+        34.036,
+        34.036
+      ],
+      "physical_cut_calibrated": false
+    },
+    {
+      "file": "CARVING KANADI  BIG BASE.psd",
+      "bytes": 691181,
+      "sha256": "adbce08deaa6f3cc85a2387878e3e69db99c8f1ebd7e38d3c35feb99dc53c5c0",
+      "width_px": 4134,
+      "height_px": 543,
+      "channels": 3,
+      "depth": 8,
+      "colour_mode": "RGB",
+      "dpi": [
+        300,
+        300
+      ],
+      "image_resource_ids": [
+        1061,
+        1060,
+        1005,
+        1062,
+        1037,
+        1049,
+        1011,
+        1034,
+        10000,
+        1013,
+        1016,
+        1024,
+        1026,
+        1032,
+        1054,
+        1050,
+        1041,
+        1044,
+        1036,
+        1057,
+        1058
+      ],
+      "layers": [
+        {
+          "index": 0,
+          "name": "layer-00",
+          "bounds_px": [
+            0,
+            0,
+            4134,
+            543
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": 0,
+              "length": 36926,
+              "offset": 9638
+            },
+            {
+              "id": 1,
+              "length": 36926,
+              "offset": 46564
+            },
+            {
+              "id": 2,
+              "length": 36926,
+              "offset": 83490
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 1,
+          "name": "layer-01",
+          "bounds_px": [
+            -2,
+            -3,
+            360,
+            549
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 23299,
+              "offset": 120416
+            },
+            {
+              "id": 0,
+              "length": 13883,
+              "offset": 143715
+            },
+            {
+              "id": 1,
+              "length": 20271,
+              "offset": 157598
+            },
+            {
+              "id": 2,
+              "length": 18786,
+              "offset": 177869
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 2,
+          "name": "layer-02",
+          "bounds_px": [
+            3769,
+            -3,
+            4131,
+            549
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 23338,
+              "offset": 196655
+            },
+            {
+              "id": 0,
+              "length": 13874,
+              "offset": 219993
+            },
+            {
+              "id": 1,
+              "length": 19083,
+              "offset": 233867
+            },
+            {
+              "id": 2,
+              "length": 17747,
+              "offset": 252950
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 3,
+          "name": "layer-03",
+          "bounds_px": [
+            0,
+            0,
+            4134,
+            543
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 43234,
+              "offset": 270697
+            },
+            {
+              "id": 0,
+              "length": 36926,
+              "offset": 313931
+            },
+            {
+              "id": 1,
+              "length": 36926,
+              "offset": 350857
+            },
+            {
+              "id": 2,
+              "length": 36926,
+              "offset": 387783
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        }
+      ],
+      "layer_count": 4,
+      "fonts": [],
+      "unicode_malayalam_text_detected": false,
+      "source_canvas_mm": [
+        350.012,
+        45.974
+      ],
+      "physical_cut_calibrated": false
+    },
+    {
+      "file": "CARVING KANNADI R BIG copy.jpg",
+      "bytes": 1219148,
+      "sha256": "d97928a48398659008e359976da8b54b45d6998cac3ea0ec3da7ad6a87d167cf",
+      "width_px": 2953,
+      "height_px": 2953,
+      "colour_mode": "RGB",
+      "format": "JPEG",
+      "dpi": [
+        300,
+        300
+      ],
+      "icc_profile_bytes": 0
+    },
+    {
+      "file": "CARVING KANNADI R BIG copy.png",
+      "bytes": 4883504,
+      "sha256": "ec890f57d87ad83bc1ae191cb3a69e0a5512c1c2ea8025647f52fdda74ed585d",
+      "width_px": 2953,
+      "height_px": 2953,
+      "colour_mode": "RGB",
+      "format": "PNG",
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "icc_profile_bytes": 0
+    },
+    {
+      "file": "CARVING KANNADI R BIG.psd",
+      "bytes": 32913332,
+      "sha256": "36283174e7eca9cca799d1c4d832ae2166465611e27af154e0a66c58a92f691b",
+      "width_px": 2953,
+      "height_px": 2953,
+      "channels": 3,
+      "depth": 8,
+      "colour_mode": "RGB",
+      "dpi": [
+        300,
+        300
+      ],
+      "image_resource_ids": [
+        1061,
+        1060,
+        1005,
+        1062,
+        1037,
+        1049,
+        1011,
+        1034,
+        10000,
+        1013,
+        1016,
+        1024,
+        1026,
+        1032,
+        1054,
+        1050,
+        1041,
+        1044,
+        1036,
+        1057,
+        1058
+      ],
+      "layers": [
+        {
+          "index": 0,
+          "name": "layer-00",
+          "bounds_px": [
+            0,
+            0,
+            2953,
+            2953
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": 0,
+              "length": 147652,
+              "offset": 80346
+            },
+            {
+              "id": 1,
+              "length": 147652,
+              "offset": 227998
+            },
+            {
+              "id": 2,
+              "length": 147652,
+              "offset": 375650
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 1,
+          "name": "layer-01",
+          "bounds_px": [
+            0,
+            0,
+            2953,
+            2953
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 185881,
+              "offset": 523302
+            },
+            {
+              "id": 0,
+              "length": 147652,
+              "offset": 709183
+            },
+            {
+              "id": 1,
+              "length": 147652,
+              "offset": 856835
+            },
+            {
+              "id": 2,
+              "length": 147652,
+              "offset": 1004487
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 2,
+          "name": "layer-02",
+          "bounds_px": [
+            215,
+            261,
+            2739,
+            1693
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 854577,
+              "offset": 1152139
+            },
+            {
+              "id": 0,
+              "length": 2810762,
+              "offset": 2006716
+            },
+            {
+              "id": 1,
+              "length": 2808332,
+              "offset": 4817478
+            },
+            {
+              "id": 2,
+              "length": 2795699,
+              "offset": 7625810
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 3,
+          "name": "layer-03",
+          "bounds_px": [
+            995,
+            1383,
+            1957,
+            2348
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "luni",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 39123,
+              "offset": 10421509
+            },
+            {
+              "id": 0,
+              "length": 19302,
+              "offset": 10460632
+            },
+            {
+              "id": 1,
+              "length": 19302,
+              "offset": 10479934
+            },
+            {
+              "id": 2,
+              "length": 19302,
+              "offset": 10499236
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 4,
+          "name": "layer-04",
+          "bounds_px": [
+            1040,
+            1430,
+            1920,
+            2310
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 32145,
+              "offset": 10518538
+            },
+            {
+              "id": 0,
+              "length": 14210,
+              "offset": 10550683
+            },
+            {
+              "id": 1,
+              "length": 14210,
+              "offset": 10564893
+            },
+            {
+              "id": 2,
+              "length": 14210,
+              "offset": 10579103
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 5,
+          "name": "layer-05",
+          "bounds_px": [
+            989,
+            1425,
+            1997,
+            2991
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 1,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 31322,
+              "offset": 10593313
+            },
+            {
+              "id": 0,
+              "length": 1429953,
+              "offset": 10624635
+            },
+            {
+              "id": 1,
+              "length": 1417772,
+              "offset": 12054588
+            },
+            {
+              "id": 2,
+              "length": 1430020,
+              "offset": 13472360
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 6,
+          "name": "layer-06",
+          "bounds_px": [
+            1070,
+            2419,
+            1882,
+            2518
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "Arial-BoldMT",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 12889,
+              "offset": 14902380
+            },
+            {
+              "id": 0,
+              "length": 1586,
+              "offset": 14915269
+            },
+            {
+              "id": 1,
+              "length": 1586,
+              "offset": 14916855
+            },
+            {
+              "id": 2,
+              "length": 1586,
+              "offset": 14918441
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "12c58dde6a6f5924dae90441b54bb3735abb21761030fd685ae3232b5cc88697",
+              "character_count": 11,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "name": "layer-07",
+          "bounds_px": [
+            1184,
+            2553,
+            1774,
+            2629
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "Arial-BoldMT",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 8714,
+              "offset": 14920027
+            },
+            {
+              "id": 0,
+              "length": 914,
+              "offset": 14928741
+            },
+            {
+              "id": 1,
+              "length": 914,
+              "offset": 14929655
+            },
+            {
+              "id": 2,
+              "length": 914,
+              "offset": 14930569
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "8d6a7e99ed83ed768b95fcc2a149c49c8cc667fd8f23da75b9f2c21a000ccd37",
+              "character_count": 15,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "name": "layer-08",
+          "bounds_px": [
+            554,
+            342,
+            2405,
+            875
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "ML-TTSabari-Bold",
+            "TimesNewRomanPSMT",
+            "ML-TTKaumudi-Normal"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 55862,
+              "offset": 14931483
+            },
+            {
+              "id": 0,
+              "length": 19190,
+              "offset": 14987345
+            },
+            {
+              "id": 1,
+              "length": 19190,
+              "offset": 15006535
+            },
+            {
+              "id": 2,
+              "length": 19190,
+              "offset": 15025725
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "75e84078abe51c5f93dac8f1eb6eca509b9db16ee5057f4aac6f7595724a73d0",
+              "character_count": 19,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "name": "layer-09",
+          "bounds_px": [
+            9,
+            5,
+            2951,
+            2948
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 245878,
+              "offset": 15044915
+            },
+            {
+              "id": 0,
+              "length": 162188,
+              "offset": 15290793
+            },
+            {
+              "id": 1,
+              "length": 162188,
+              "offset": 15452981
+            },
+            {
+              "id": 2,
+              "length": 162188,
+              "offset": 15615169
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 10,
+          "name": "layer-10",
+          "bounds_px": [
+            52,
+            44,
+            2909,
+            2909
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 538985,
+              "offset": 15777357
+            },
+            {
+              "id": 0,
+              "length": 2102434,
+              "offset": 16316342
+            },
+            {
+              "id": 1,
+              "length": 1977696,
+              "offset": 18418776
+            },
+            {
+              "id": 2,
+              "length": 2105141,
+              "offset": 20396472
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        }
+      ],
+      "layer_count": 11,
+      "fonts": [
+        "Arial-BoldMT",
+        "ML-TTKaumudi-Normal",
+        "ML-TTSabari-Bold",
+        "TimesNewRomanPSMT"
+      ],
+      "unicode_malayalam_text_detected": false,
+      "source_canvas_mm": [
+        250.020667,
+        250.020667
+      ],
+      "physical_cut_calibrated": false
+    },
+    {
+      "file": "H GLASS BIG copy.png",
+      "bytes": 198024,
+      "sha256": "d7c368d06e4f4160656c123ff293cd258f7b2de309a9d5f663123883de26fc86",
+      "width_px": 1358,
+      "height_px": 2870,
+      "colour_mode": "RGBA",
+      "format": "PNG",
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "icc_profile_bytes": 0
+    },
+    {
+      "file": "H GLASS BIG.psd",
+      "bytes": 1259446,
+      "sha256": "a411775a833e797a9b270d069c5ec7a94303f87e36c1fd003c834a0660f67a56",
+      "width_px": 1358,
+      "height_px": 2870,
+      "channels": 4,
+      "depth": 8,
+      "colour_mode": "RGB",
+      "dpi": [
+        300,
+        300
+      ],
+      "image_resource_ids": [
+        1061,
+        1060,
+        1005,
+        1062,
+        1006,
+        1045,
+        1007,
+        1053,
+        1037,
+        1049,
+        1011,
+        1034,
+        10000,
+        1013,
+        1016,
+        1024,
+        1026,
+        1032,
+        1054,
+        1050,
+        1041,
+        1044,
+        1036,
+        1057,
+        1058
+      ],
+      "layers": [
+        {
+          "index": 0,
+          "name": "layer-00",
+          "bounds_px": [
+            1,
+            8,
+            1355,
+            2859
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 99656,
+              "offset": 8738
+            },
+            {
+              "id": 0,
+              "length": 68426,
+              "offset": 108394
+            },
+            {
+              "id": 1,
+              "length": 68426,
+              "offset": 176820
+            },
+            {
+              "id": 2,
+              "length": 68426,
+              "offset": 245246
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 1,
+          "name": "layer-01",
+          "bounds_px": [
+            1,
+            8,
+            1355,
+            2859
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 159764,
+              "offset": 313672
+            },
+            {
+              "id": 0,
+              "length": 68426,
+              "offset": 473436
+            },
+            {
+              "id": 1,
+              "length": 68426,
+              "offset": 541862
+            },
+            {
+              "id": 2,
+              "length": 68426,
+              "offset": 610288
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        }
+      ],
+      "layer_count": 2,
+      "fonts": [],
+      "unicode_malayalam_text_detected": false,
+      "source_canvas_mm": [
+        114.977333,
+        242.993333
+      ],
+      "physical_cut_calibrated": false
+    },
+    {
+      "file": "Sheet_A3.psd",
+      "bytes": 3155764,
+      "sha256": "5e8e32b73d41e416c8abe3e7b0b9ba569fa46a2a32cdaf867853ea3ec437a392",
+      "width_px": 3508,
+      "height_px": 4961,
+      "channels": 4,
+      "depth": 8,
+      "colour_mode": "CMYK",
+      "dpi": [
+        300,
+        300
+      ],
+      "icc_profile_sha256": "4855b8fabb96bdc6495d45d089bb8c8efb1ae18389e0dc9e75a5f701a9c0b662",
+      "icc_profile_bytes": 557168,
+      "image_resource_ids": [
+        1061,
+        1060,
+        1005,
+        1062,
+        1037,
+        1049,
+        1011,
+        1034,
+        10000,
+        1013,
+        1016,
+        1024,
+        1026,
+        1032,
+        1054,
+        1050,
+        1039,
+        1044,
+        1036,
+        1057,
+        1058
+      ],
+      "layers": [
+        {
+          "index": 0,
+          "name": "layer-00",
+          "bounds_px": [
+            0,
+            0,
+            3508,
+            4961
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 287740,
+              "offset": 566092
+            },
+            {
+              "id": 0,
+              "length": 287740,
+              "offset": 853832
+            },
+            {
+              "id": 1,
+              "length": 287740,
+              "offset": 1141572
+            },
+            {
+              "id": 2,
+              "length": 287740,
+              "offset": 1429312
+            },
+            {
+              "id": 3,
+              "length": 287740,
+              "offset": 1717052
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        }
+      ],
+      "layer_count": 1,
+      "fonts": [],
+      "unicode_malayalam_text_detected": false,
+      "source_canvas_mm": [
+        297.010667,
+        420.031333
+      ],
+      "physical_cut_calibrated": false
+    },
+    {
+      "file": "Sheet_CLEAR.png",
+      "bytes": 174948,
+      "sha256": "79147e053b6515cab0f06366f97c4dc83a60651707c4d9e7882b2d8eddd11845",
+      "width_px": 3900,
+      "height_px": 5700,
+      "colour_mode": "RGB",
+      "format": "PNG",
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "icc_profile_bytes": 0
+    },
+    {
+      "file": "Sheet_CLEAR.psd",
+      "bytes": 1102196,
+      "sha256": "2cb3eb85da5ad04acf3d6d56d06a0bca3441165fc76cc28e847203e029131763",
+      "width_px": 3900,
+      "height_px": 5700,
+      "channels": 3,
+      "depth": 8,
+      "colour_mode": "RGB",
+      "dpi": [
+        300,
+        300
+      ],
+      "image_resource_ids": [
+        1061,
+        1060,
+        1005,
+        1062,
+        1037,
+        1049,
+        1011,
+        1034,
+        10000,
+        1013,
+        1016,
+        1032,
+        1054,
+        1050,
+        1041,
+        1044,
+        1036,
+        1057,
+        1058
+      ],
+      "layers": [],
+      "layer_count": 0,
+      "fonts": [],
+      "unicode_malayalam_text_detected": false,
+      "source_canvas_mm": [
+        330.2,
+        482.6
+      ],
+      "physical_cut_calibrated": false
+    },
+    {
+      "file": "XYLEM GLASS SMALL copy.png",
+      "bytes": 204224,
+      "sha256": "a69be508baf7b007d6f8aa60e364113da36a1d548f59d8150fec20a5763f9a3d",
+      "width_px": 1020,
+      "height_px": 2388,
+      "colour_mode": "RGBA",
+      "format": "PNG",
+      "dpi": [
+        299.9994,
+        299.9994
+      ],
+      "icc_profile_bytes": 0
+    },
+    {
+      "file": "XYLEM GLASS SMALL.psd",
+      "bytes": 1771280,
+      "sha256": "0ee2e5709ac2e8080a3bfe370dc47e2b574648db750b01a475153a1b9081be36",
+      "width_px": 1020,
+      "height_px": 2388,
+      "channels": 4,
+      "depth": 8,
+      "colour_mode": "RGB",
+      "dpi": [
+        300,
+        300
+      ],
+      "image_resource_ids": [
+        1061,
+        1060,
+        1005,
+        1062,
+        1006,
+        1045,
+        1007,
+        1053,
+        1037,
+        1049,
+        1011,
+        1034,
+        10000,
+        1013,
+        1016,
+        1024,
+        1026,
+        1032,
+        1054,
+        1050,
+        1041,
+        1044,
+        1036,
+        1057,
+        1058
+      ],
+      "layers": [
+        {
+          "index": 0,
+          "name": "layer-00",
+          "bounds_px": [
+            37,
+            19,
+            982,
+            2365
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 43130,
+              "offset": 103820
+            },
+            {
+              "id": 0,
+              "length": 43130,
+              "offset": 146950
+            },
+            {
+              "id": 1,
+              "length": 43130,
+              "offset": 190080
+            },
+            {
+              "id": 2,
+              "length": 43130,
+              "offset": 233210
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 1,
+          "name": "layer-01",
+          "bounds_px": [
+            37,
+            1643,
+            752,
+            2365
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 24972,
+              "offset": 276340
+            },
+            {
+              "id": 0,
+              "length": 39931,
+              "offset": 301312
+            },
+            {
+              "id": 1,
+              "length": 39931,
+              "offset": 341243
+            },
+            {
+              "id": 2,
+              "length": 39931,
+              "offset": 381174
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 2,
+          "name": "layer-02",
+          "bounds_px": [
+            74,
+            651,
+            931,
+            805
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "BackslashRegular",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 24983,
+              "offset": 421105
+            },
+            {
+              "id": 0,
+              "length": 2774,
+              "offset": 446088
+            },
+            {
+              "id": 1,
+              "length": 2774,
+              "offset": 448862
+            },
+            {
+              "id": 2,
+              "length": 2774,
+              "offset": 451636
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "e58e6ae95de0862b4453dcc4a7302698d557aad694f0126770b89d43750656c5",
+              "character_count": 36,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "name": "layer-03",
+          "bounds_px": [
+            114,
+            892,
+            908,
+            1143
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "BroncoRegular",
+            "BrushScriptMT",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 23509,
+              "offset": 454410
+            },
+            {
+              "id": 0,
+              "length": 4520,
+              "offset": 477919
+            },
+            {
+              "id": 1,
+              "length": 4520,
+              "offset": 482439
+            },
+            {
+              "id": 2,
+              "length": 4520,
+              "offset": 486959
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "6947ed60c923a7c55c98de23e7fd0f9b75c863b19ebd8eae4294cedf5e1e2c33",
+              "character_count": 17,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "name": "layer-04",
+          "bounds_px": [
+            255,
+            1198,
+            766,
+            1227
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 6343,
+              "offset": 491479
+            },
+            {
+              "id": 0,
+              "length": 14769,
+              "offset": 497822
+            },
+            {
+              "id": 1,
+              "length": 14821,
+              "offset": 512591
+            },
+            {
+              "id": 2,
+              "length": 14794,
+              "offset": 527412
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 5,
+          "name": "layer-05",
+          "bounds_px": [
+            64,
+            1279,
+            971,
+            1478
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 28087,
+              "offset": 542206
+            },
+            {
+              "id": 0,
+              "length": 58903,
+              "offset": 570293
+            },
+            {
+              "id": 1,
+              "length": 58903,
+              "offset": 629196
+            },
+            {
+              "id": 2,
+              "length": 58903,
+              "offset": 688099
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 6,
+          "name": "layer-06",
+          "bounds_px": [
+            109,
+            1522,
+            912,
+            1843
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "Humanist777BT-BlackB",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 30348,
+              "offset": 747002
+            },
+            {
+              "id": 0,
+              "length": 6090,
+              "offset": 777350
+            },
+            {
+              "id": 1,
+              "length": 6090,
+              "offset": 783440
+            },
+            {
+              "id": 2,
+              "length": 6090,
+              "offset": 789530
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "29169c663c621173a250a8b6433141ac57b576e8ad8d4a1d37a7ac1a798114c4",
+              "character_count": 53,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "name": "layer-07",
+          "bounds_px": [
+            221,
+            1336,
+            808,
+            1433
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "TySh",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [
+            "Humanist777BT-RomanB",
+            "TimesNewRomanPSMT"
+          ],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 10459,
+              "offset": 795620
+            },
+            {
+              "id": 0,
+              "length": 1360,
+              "offset": 806079
+            },
+            {
+              "id": 1,
+              "length": 1360,
+              "offset": 807439
+            },
+            {
+              "id": 2,
+              "length": 1360,
+              "offset": 808799
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": [
+            {
+              "sha256": "dbece28ee733901bcab1b0457e110e6e2c0d3822c1f0022fc6dd5ea436be35dc",
+              "character_count": 11,
+              "has_malayalam": false
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "name": "layer-08",
+          "bounds_px": [
+            557,
+            37,
+            982,
+            775
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "lfx2",
+            "lrFX",
+            "luni",
+            "lnsr",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 20502,
+              "offset": 810159
+            },
+            {
+              "id": 0,
+              "length": 32404,
+              "offset": 830661
+            },
+            {
+              "id": 1,
+              "length": 32404,
+              "offset": 863065
+            },
+            {
+              "id": 2,
+              "length": 32404,
+              "offset": 895469
+            }
+          ],
+          "effect_records": [
+            "lfx2",
+            "lrFX"
+          ],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        },
+        {
+          "index": 9,
+          "name": "layer-09",
+          "bounds_px": [
+            37,
+            19,
+            982,
+            2365
+          ],
+          "visible": true,
+          "opacity": 255,
+          "blend_mode": "norm",
+          "clipping": 0,
+          "has_pixel_mask": false,
+          "additional_blocks": [
+            "luni",
+            "lyid",
+            "clbl",
+            "infx",
+            "knko",
+            "lspf",
+            "lclr",
+            "fxrp"
+          ],
+          "fonts": [],
+          "channel_records": [
+            {
+              "id": -1,
+              "length": 55663,
+              "offset": 927873
+            },
+            {
+              "id": 0,
+              "length": 52440,
+              "offset": 983536
+            },
+            {
+              "id": 1,
+              "length": 52440,
+              "offset": 1035976
+            },
+            {
+              "id": 2,
+              "length": 52440,
+              "offset": 1088416
+            }
+          ],
+          "effect_records": [],
+          "smart_object_records": [],
+          "has_vector_mask": false,
+          "text_runs": []
+        }
+      ],
+      "layer_count": 10,
+      "fonts": [
+        "BackslashRegular",
+        "BroncoRegular",
+        "BrushScriptMT",
+        "Humanist777BT-BlackB",
+        "Humanist777BT-RomanB",
+        "TimesNewRomanPSMT"
+      ],
+      "unicode_malayalam_text_detected": false,
+      "source_canvas_mm": [
+        86.36,
+        202.184
+      ],
+      "physical_cut_calibrated": false
+    }
+  ]
+}

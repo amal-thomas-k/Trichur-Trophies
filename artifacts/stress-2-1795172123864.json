@@ -1,0 +1,52 @@
+{
+  "runId": "stress-2-1795172123864",
+  "count": 2,
+  "dataDir": "<PROJECT_ROOT>\\data\\stress-2-1795172123864",
+  "startedAt": "2026-11-20T10:55:24.920Z",
+  "imageDimensions": [
+    1200,
+    1600
+  ],
+  "sourceFixtureCount": 2,
+  "rendererDpi": 300,
+  "crashRestart": true,
+  "tests": [
+    "Exactly one current proof per recipient after forced worker restart",
+    "Exact copy/component coverage with no missing or duplicated pieces",
+    "Every PDF placement references its approved canonical artwork SHA-256",
+    "Every PDF page is exactly A3 297 by 420 mm",
+    "Approved PNG and JPEG ZIP contains exact recipient/component coverage and its manifest"
+  ],
+  "sourceCodeSha256": {
+    "src/worker.js": "55caa3371a862a73ccdc1569a04986943478e53e7584b93d946e81f0e022bb95",
+    "src/render.js": "81b6a928e226b74c22dc05b253c816f05d964913604ae9bac9c0fddd0f0d9bf6",
+    "src/packing.js": "bdb74ebe3c637fb970098aa7c56f6acb691a5eefa413052f7e87c45d736a9a9c",
+    "src/domain.js": "7d3f111974b3cee5b570dd13a0635e8bf2a0d8a54e14153e40e027b25ec9c9df",
+    "scripts/stress.js": "f79c92824e0a7b2c2f7246b94e49dde72085b36292eabcd575b2d816afe3d4bd"
+  },
+  "orderId": "4a90fed8-dae2-42fb-b126-ee962457f493",
+  "sourceFixtureBytes": [
+    62208,
+    58228
+  ],
+  "datasetDescription": "Ten synthetic graphic portraits at phone-like 1200x1600 resolution, reused across distinct recipient assets. Their compressed sizes are smaller than detailed camera photographs; this is a controlled synthetic workload, not a real-phone throughput guarantee.",
+  "preparationSeconds": 0.1322608,
+  "interruptedJobId": "a271127c-2550-4203-abfe-d536447743f9",
+  "renderSeconds": 6.6231553000000005,
+  "renderedInThisSegment": 2,
+  "approvalId": "d66ea71f-2462-49c5-bad9-e018aff7f179",
+  "exportSeconds": 1.5344305000000005,
+  "expectedPieces": 6,
+  "pageCount": 1,
+  "pdfBytes": 144686,
+  "pdfPath": "<PROJECT_ROOT>\\data\\stress-2-1795172123864\\exports\\0c645ead-a761-4e32-bc54-8d74ac377e32\\order-a3.pdf",
+  "manifestPath": "<PROJECT_ROOT>\\data\\stress-2-1795172123864\\exports\\0c645ead-a761-4e32-bc54-8d74ac377e32\\placement-manifest.json",
+  "zipBytes": 486992,
+  "zipPath": "<PROJECT_ROOT>\\data\\stress-2-1795172123864\\exports\\0c645ead-a761-4e32-bc54-8d74ac377e32\\individual-artworks.zip",
+  "completedAt": "2026-11-20T10:55:33.301Z",
+  "totalSeconds": 8.374446,
+  "peakNodeWorkerRssBytes": 185442304,
+  "peakNodeWorkerHeapBytes": 85463824,
+  "memoryMeasurement": "Worker Node process RSS sampled every second through IPC. Chromium child-process memory and between-sample spikes are not included.",
+  "passed": true
+}

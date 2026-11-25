@@ -1,0 +1,66 @@
+{
+  "checkedAt": "2026-11-24T18:33:36.083474Z",
+  "transport": "PowerShell preflight and temporary exclusive bind only",
+  "address": "<SHOP_LAN_IP>",
+  "serverStarted": false,
+  "databaseCreated": false,
+  "tests": [
+    {
+      "observed": "Passed previously; data/shop remained absent",
+      "passed": true,
+      "name": "Fresh default Shop preflight"
+    },
+    {
+      "observed": "Passed previously; server and worker not started",
+      "passed": true,
+      "name": "Existing Work1 preflight"
+    },
+    {
+      "observed": "0.0.0.0 rejected before any service or database change",
+      "passed": true,
+      "name": "Reject wildcard address"
+    },
+    {
+      "observed": "Work1 plus explicit DataDirectory rejected",
+      "passed": true,
+      "name": "Reject ambiguous dataset"
+    },
+    {
+      "observed": "Exclusive bound <SHOP_LAN_IP>:3031 refused; existing listener retained",
+      "passed": true,
+      "name": "Reject occupied selected address/port"
+    },
+    {
+      "observed": "Live PID lock preserved; no app.sqlite created in isolated fixture",
+      "passed": true,
+      "name": "Reject live process lock"
+    },
+    {
+      "observed": "Maintenance file preserved; no service started",
+      "passed": true,
+      "name": "Reject maintenance lock"
+    },
+    {
+      "observed": "SHA-256 equal before and after negative tests",
+      "passed": true,
+      "name": "Existing default and Work1 database bytes unchanged"
+    },
+    {
+      "observed": "data/shop absent after tests",
+      "passed": true,
+      "name": "Fresh Shop preflight did not create database"
+    },
+    {
+      "name": "Caller environment and directory restored",
+      "passed": true,
+      "observed": "Original unset variables remain absent after direct PowerShell invocation; working directory unchanged"
+    }
+  ],
+  "limits": [
+    "No phone connectivity test",
+    "No firewall or router changes",
+    "No public deployment",
+    "No Docker runtime available",
+    "No real-device HTTPS/PWA installation test"
+  ]
+}

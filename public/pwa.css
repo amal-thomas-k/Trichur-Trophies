@@ -1,0 +1,23 @@
+.pwa-support{max-width:720px;margin:0 auto 28px;padding:0 20px;color:#445a63;font-family:inherit;font-size:.88rem;overflow-wrap:anywhere}
+.pwa-actions{display:flex;justify-content:center;flex-wrap:wrap;gap:4px 18px;border-top:1px solid #dce1df;padding-top:8px}
+.pwa-link{border:0;background:transparent;text-decoration:underline;text-underline-offset:3px;color:#234d59;padding:12px 6px;min-height:48px;font:inherit;cursor:pointer}
+#pwa-order-details:not([open]){display:none}
+.pwa-support details{margin-top:12px;border:1px solid #c8d3d3;border-radius:14px;padding:14px;background:#fff}
+.pwa-support summary{cursor:pointer;min-height:48px;display:flex;align-items:center;font-weight:700;color:#142b38}
+.pwa-support form p{line-height:1.65;margin:8px 0 14px}
+.pwa-support form label{display:block;margin:0 0 7px;font-weight:700;color:#142b38}
+.pwa-support input{box-sizing:border-box;display:block;width:100%;max-width:100%;min-height:48px;border:1px solid #9aafb4;border-radius:9px;padding:12px;font:inherit;font-size:16px;background:#fff;color:#142b38}
+.pwa-primary,.pwa-secondary{box-sizing:border-box;min-height:48px;border-radius:10px;padding:12px 18px;font:inherit;font-weight:700;cursor:pointer;max-width:100%;white-space:normal}
+.pwa-primary{border:1px solid #142b38;background:#142b38;color:#fff}
+.pwa-secondary{border:1px solid #a9b8bb;background:#fff;color:#142b38}
+.pwa-primary:disabled{opacity:.6;cursor:wait}
+.pwa-support button:focus-visible,.pwa-support input:focus-visible,.pwa-support summary:focus-visible{outline:3px solid #ab7617;outline-offset:3px}
+#pwa-link-error{color:#9e2525}
+#pwa-dialog{box-sizing:border-box;width:min(540px,calc(100% - 28px));max-height:calc(100dvh - 48px);margin:auto;border:1px solid #b8c5c7;border-radius:20px;padding:0;color:#142b38;background:#fff;overflow:auto}
+#pwa-dialog::backdrop{background:rgba(8,28,37,.55)}
+.pwa-dialog-body{padding:26px}
+.pwa-dialog-body h2{font-size:1.35rem;margin:0 0 18px;line-height:1.4}
+.pwa-dialog-body p{line-height:1.7;margin:12px 0 18px}
+.pwa-dialog-body .pwa-small{font-size:.86rem;color:#54676d}
+@media(max-width:390px){.pwa-support{padding:0 14px}.pwa-dialog-body{padding:20px}.pwa-actions{gap:2px 10px}}
+@media(prefers-reduced-motion:reduce){.pwa-support *{scroll-behavior:auto}}

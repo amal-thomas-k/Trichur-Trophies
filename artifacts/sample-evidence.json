@@ -1,0 +1,11 @@
+{
+  "orderId": "ae3a5145-2c2a-44f9-9456-37a131629ecb",
+  "approvalId": "6f849ded-25cb-464f-ba83-cc0a517f6bf7",
+  "snapshotHash": "74c3769b9eb1068a5752fd4dd4b3c6a25cad70d3c0495ba81d941b1ef0109f6f",
+  "proofId": "88a957cc-3438-40af-bfce-e7fe20c74754",
+  "artworkSha256": "bad95b8f25c47fae7a1768f178e06d2252942b900126d25d98cdc31ff3f707d5",
+  "printJobId": "b10b64f7-3618-43ec-8a8c-99994561b7ab",
+  "diagnostic": true,
+  "calibrated": false,
+  "generatedAt": "2026-11-20T10:57:30.858Z"
+}

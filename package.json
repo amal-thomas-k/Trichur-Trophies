@@ -1,0 +1,27 @@
+{
+  "name": "trichur-trophies-personalise-print",
+  "version": "1.0.0-rc.1",
+  "private": true,
+  "type": "module",
+  "description": "Self-hosted customer personalisation, immutable approval and A3 production for Trichur Trophies",
+  "engines": { "node": ">=24.22.3 <25" },
+  "packageManager": "pnpm@11.25.0",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env src/server.js",
+    "worker": "node --env-file-if-exists=.env src/worker.js",
+    "migrate": "node --env-file-if-exists=.env scripts/migrate.js",
+    "admin": "node --env-file-if-exists=.env scripts/admin.js",
+    "seed": "node --env-file-if-exists=.env scripts/seed.js",
+    "test": "node --test tests/*.test.js",
+    "backup": "node --env-file-if-exists=.env scripts/backup.js",
+    "restore": "node --env-file-if-exists=.env scripts/restore.js",
+    "check:render": "node --env-file-if-exists=.env scripts/check-render.js"
+  },
+  "dependencies": {
+    "bcryptjs": "2.4.3",
+    "jszip": "3.10.1",
+    "pdf-lib": "1.17.1",
+    "playwright": "1.62.1",
+    "sharp": "0.35.5"
+  }
+}

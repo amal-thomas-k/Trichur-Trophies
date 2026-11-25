@@ -1,0 +1,5 @@
+packages:
+  - .
+enableGlobalVirtualStore: false
+allowBuilds:
+  sharp: true

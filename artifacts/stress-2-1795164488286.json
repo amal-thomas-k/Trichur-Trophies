@@ -1,0 +1,39 @@
+{
+  "runId": "stress-2-1795164488286",
+  "count": 2,
+  "dataDir": "<PROJECT_ROOT>\\data\\stress-2-1795164488286",
+  "startedAt": "2026-11-20T08:48:09.516Z",
+  "imageDimensions": [
+    1200,
+    1600
+  ],
+  "sourceFixtureCount": 2,
+  "rendererDpi": 300,
+  "crashRestart": true,
+  "tests": [
+    "Exactly one current proof per recipient after forced worker restart",
+    "Exact copy/component coverage with no missing or duplicated pieces",
+    "Every PDF placement references its approved canonical artwork SHA-256",
+    "Every PDF page is exactly A3 297 by 420 mm",
+    "Approved PNG and JPEG ZIP contains exact recipient/component coverage and its manifest"
+  ],
+  "orderId": "578f743b-6b52-4f4d-9337-5a224c2c827d",
+  "preparationSeconds": 0.11650669999999991,
+  "interruptedJobId": "6b943d00-4085-4715-acde-64dc50bc6a72",
+  "renderSeconds": 6.6332049,
+  "approvalId": "b7dd0bb3-1df3-442f-b35c-8f3c49fd0a9b",
+  "exportSeconds": 1.5439814000000005,
+  "expectedPieces": 6,
+  "pageCount": 1,
+  "pdfBytes": 138980,
+  "pdfPath": "<PROJECT_ROOT>\\data\\stress-2-1795164488286\\exports\\eea77df5-0e5c-45d1-9235-f5e4037e1dfc\\order-a3.pdf",
+  "manifestPath": "<PROJECT_ROOT>\\data\\stress-2-1795164488286\\exports\\eea77df5-0e5c-45d1-9235-f5e4037e1dfc\\placement-manifest.json",
+  "zipBytes": 458792,
+  "zipPath": "<PROJECT_ROOT>\\data\\stress-2-1795164488286\\exports\\eea77df5-0e5c-45d1-9235-f5e4037e1dfc\\individual-artworks.zip",
+  "completedAt": "2026-11-20T08:48:17.889Z",
+  "totalSeconds": 8.3714676,
+  "peakNodeWorkerRssBytes": 184619008,
+  "peakNodeWorkerHeapBytes": 84652952,
+  "memoryMeasurement": "Worker Node process RSS sampled every second through IPC. Chromium child-process memory and between-sample spikes are not included.",
+  "passed": true
+}

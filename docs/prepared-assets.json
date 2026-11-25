@@ -1,0 +1,44 @@
+[
+  {
+    "file": "private/prepared-assets/479-c-clean-background.png",
+    "sha256": "c19b6fd8ef46510db8d915d71df9dce77e18620484d69bc2f2c8dbdcc7f22b6b",
+    "width_px": 1004,
+    "height_px": 1843,
+    "physical_cut_calibrated": false
+  },
+  {
+    "file": "private/prepared-assets/479-c-clean-foreground.png",
+    "sha256": "35f7a257a0bd267540c62edfefb06839a79c518dde64fe6113f7009ed748a5d1",
+    "width_px": 1004,
+    "height_px": 1843,
+    "physical_cut_calibrated": false
+  },
+  {
+    "file": "private/prepared-assets/479-c-synthetic-background.png",
+    "sha256": "85b958427b804d8ffd001097e51637d51d0066117c6b3450e22c0f7b0d82cba3",
+    "width_px": 1004,
+    "height_px": 1843,
+    "physical_cut_calibrated": false
+  },
+  {
+    "file": "private/prepared-assets/727-a-base-frame.png",
+    "sha256": "dcdc41d07d1f388737a68062bb4e20aad798788e5c6ac9e96913839dc7c9a992",
+    "width_px": 842,
+    "height_px": 1066,
+    "physical_cut_calibrated": false
+  },
+  {
+    "file": "private/prepared-assets/727-a-r-frame.png",
+    "sha256": "d90bc407dfbeae2a57f05d1251c3c7112319ee1207498b4b96133a4ff120cef9",
+    "width_px": 402,
+    "height_px": 402,
+    "physical_cut_calibrated": false
+  },
+  {
+    "file": "private/prepared-assets/h-glass-big-frame.png",
+    "sha256": "d7c368d06e4f4160656c123ff293cd258f7b2de309a9d5f663123883de26fc86",
+    "width_px": 1358,
+    "height_px": 2870,
+    "physical_cut_calibrated": false
+  }
+]

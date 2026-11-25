@@ -1,0 +1,26 @@
+services:
+  web:
+    environment:
+      BASE_URL: https://${DOMAIN:?Set DOMAIN to the server DNS hostname}
+  worker:
+    environment:
+      BASE_URL: https://${DOMAIN:?Set DOMAIN to the server DNS hostname}
+  proxy:
+    image: caddy:2.10.2-alpine
+    restart: unless-stopped
+    environment:
+      DOMAIN: ${DOMAIN:?Set DOMAIN to the server DNS hostname}
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    volumes:
+      - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data
+      - caddy-config:/config
+    depends_on:
+      web:
+        condition: service_healthy
+volumes:
+  caddy-data:
+  caddy-config:

@@ -1,0 +1,22 @@
+node_modules/
+data/
+backups/
+.env
+.env.*
+!.env.example
+test-results/
+playwright-report/
+*.log
+private/*
+!private/prepared-assets/
+.tmp/
+Design Templates/
+Catalogues/
+Work 1/
+Work1-Output/
+delivery/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.url
+__pycache__/

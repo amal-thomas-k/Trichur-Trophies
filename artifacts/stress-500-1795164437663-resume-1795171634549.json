@@ -1,0 +1,60 @@
+{
+  "runId": "stress-500-1795164437663-resume-1795171634549",
+  "count": 500,
+  "dataDir": "<PROJECT_ROOT>\\data\\stress-500-1795164437663",
+  "startedAt": "2026-11-20T10:47:15.441Z",
+  "imageDimensions": [
+    1200,
+    1600
+  ],
+  "sourceFixtureCount": 10,
+  "rendererDpi": 300,
+  "crashRestart": true,
+  "tests": [],
+  "resumed": true,
+  "preservedProofCount": 313,
+  "originalStartedAt": "2026-11-20T08:47:19.237Z",
+  "lastPreviousCompletedAt": "2026-11-20T08:53:23.304Z",
+  "originalRestartEvidence": [
+    {
+      "id": "8dfecad2-06b5-4644-b20c-439b95ae6119",
+      "attempts": 2,
+      "status": "completed"
+    }
+  ],
+  "initialJobCounts": [
+    {
+      "status": "completed",
+      "n": 313
+    },
+    {
+      "status": "queued",
+      "n": 186
+    },
+    {
+      "status": "running",
+      "n": 1
+    }
+  ],
+  "timingNote": "Execution was interrupted by loss of the host connection. Render/export/total seconds below measure this resumed segment only; original elapsed wall time includes the outage and is not a throughput benchmark. Memory samples cover the resumed worker only.",
+  "datasetDescription": "Ten synthetic graphic portraits at phone-like 1200x1600 resolution, reused across distinct recipient assets. Compressed sizes are smaller than detailed camera photographs.",
+  "sourceFixtureBytes": [
+    62208,
+    58228,
+    52405,
+    62891,
+    56261,
+    62051,
+    58148,
+    52078,
+    62751,
+    56081
+  ],
+  "orderId": "cad43714-0a5d-452c-8f6c-c472fb048dd4",
+  "preparationSeconds": 0.014440299999999979,
+  "passed": false,
+  "error": "Error: 7cca9390-1d8a-496c-884b-94225928a41e: Historical fixture intentionally stopped; current-code fresh 500-run replaces this benchmark.\n    at file:///<USER_HOME>/Documents/Trichur%20Trophies/scripts/stress.js:126:30",
+  "totalSeconds": 150.87354760000002,
+  "peakNodeWorkerRssBytes": 281694208,
+  "peakNodeWorkerHeapBytes": 150684816
+}

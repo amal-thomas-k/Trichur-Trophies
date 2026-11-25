@@ -1,0 +1,438 @@
+TAP version 13
+# Subtest: real server customer, approval, security and export invariants (http transport)
+    # Subtest: public routes do not disclose orders and unknown static files fail safely
+    ok 1 - public routes do not disclose orders and unknown static files fail safely
+      ---
+      duration_ms: 54.601
+      type: 'test'
+      ...
+    # Subtest: CSRF and foreign origin writes are rejected
+    ok 2 - CSRF and foreign origin writes are rejected
+      ---
+      duration_ms: 46.1195
+      type: 'test'
+      ...
+    # Subtest: name-first record, Unicode and repeated Save are persistent and idempotent
+    ok 3 - name-first record, Unicode and repeated Save are persistent and idempotent
+      ---
+      duration_ms: 65.2174
+      type: 'test'
+      ...
+    # Subtest: decoded upload validation returns actionable HEIC errors and preserves drafts
+    ok 4 - decoded upload validation returns actionable HEIC errors and preserves drafts
+      ---
+      duration_ms: 66.7353
+      type: 'test'
+      ...
+    # Subtest: validated photo upload, duplicate retry and stale upload cannot replace newer selection
+    ok 5 - validated photo upload, duplicate retry and stale upload cannot replace newer selection
+      ---
+      duration_ms: 209.0533
+      type: 'test'
+      ...
+    # Subtest: cross-order media, helper ownership and production role isolation
+    ok 6 - cross-order media, helper ownership and production role isolation
+      ---
+      duration_ms: 99.1518
+      type: 'test'
+      ...
+    # Subtest: conflicting edits cannot overwrite and photo survives a name-only edit
+    ok 7 - conflicting edits cannot overwrite and photo survives a name-only edit
+      ---
+      duration_ms: 24.7872
+      type: 'test'
+      ...
+    # Subtest: durable worker generates real canonical proof and revision-bound review
+    ok 8 - durable worker generates real canonical proof and revision-bound review
+      ---
+      duration_ms: 2579.8802
+      type: 'test'
+      ...
+    # Subtest: organiser approval freezes already-rendered artwork and rejects stale revision
+    ok 9 - organiser approval freezes already-rendered artwork and rejects stale revision
+      ---
+      duration_ms: 49.6475
+      type: 'test'
+      ...
+    # Subtest: diagnostic A3 PDF embeds approved artwork with exact piece quantities and blocks release
+    ok 10 - diagnostic A3 PDF embeds approved artwork with exact piece quantities and blocks release
+      ---
+      duration_ms: 1842.1966
+      type: 'test'
+      ...
+    # Subtest: later name edit invalidates review/approval and blocks stale output download
+    ok 11 - later name edit invalidates review/approval and blocks stale output download
+      ---
+      duration_ms: 33.8748
+      type: 'test'
+      ...
+    # Subtest: late proof completion cannot overwrite a newer recipient revision
+    ok 12 - late proof completion cannot overwrite a newer recipient revision
+      ---
+      duration_ms: 1857.0191
+      type: 'test'
+      ...
+    # Subtest: shared wording changes invalidate recipient reviews and keep exact Unicode
+    ok 13 - shared wording changes invalidate recipient reviews and keep exact Unicode
+      ---
+      duration_ms: 48.5156
+      type: 'test'
+      ...
+    # Subtest: two scoped helpers can contribute concurrently without matching photos by order
+    ok 14 - two scoped helpers can contribute concurrently without matching photos by order
+      ---
+      duration_ms: 186.8997
+      type: 'test'
+      ...
+    # Subtest: calibration requires real numeric measurements and cannot be asserted with missing data
+    ok 15 - calibration requires real numeric measurements and cannot be asserted with missing data
+      ---
+      duration_ms: 16.1183
+      type: 'test'
+      ...
+    # Subtest: mixed model groups keep copy/component counts and isolate override invalidation
+    ok 16 - mixed model groups keep copy/component counts and isolate override invalidation
+      ---
+      duration_ms: 134.2821
+      type: 'test'
+      ...
+    # Subtest: required template fields fail proof generation and block approval
+    ok 17 - required template fields fail proof generation and block approval
+      ---
+      duration_ms: 6804.0254
+      type: 'test'
+      ...
+    # Subtest: phone EXIF orientation is normalized and metadata stripped from served derivatives
+    ok 18 - phone EXIF orientation is normalized and metadata stripped from served derivatives
+      ---
+      duration_ms: 130.2831
+      type: 'test'
+      ...
+    1..18
+ok 1 - real server customer, approval, security and export invariants (http transport)
+  ---
+  duration_ms: 18996.9864
+  type: 'test'
+  ...
+# Subtest: an expired worker lease recovers a durable job without marking it successful
+ok 2 - an expired worker lease recovers a durable job without marking it successful
+  ---
+  duration_ms: 25.1788
+  type: 'test'
+  ...
+# Subtest: cancelled or retry-exhausted jobs are not silently rerun
+ok 3 - cancelled or retry-exhausted jobs are not silently rerun
+  ---
+  duration_ms: 14.5805
+  type: 'test'
+  ...
+# Subtest: a waiting export cannot be starved by more than five consecutive proofs
+ok 4 - a waiting export cannot be starved by more than five consecutive proofs
+  ---
+  duration_ms: 92.4975
+  type: 'test'
+  ...
+# Subtest: paused maintenance blocks claiming new work
+ok 5 - paused maintenance blocks claiming new work
+  ---
+  duration_ms: 10.9151
+  type: 'test'
+  ...
+# Subtest: worker refuses another live process lock or malformed PID
+ok 6 - worker refuses another live process lock or malformed PID
+  ---
+  duration_ms: 18.7405
+  type: 'test'
+  ...
+# Subtest: approved recipients, copies and paired components expand into exact pieces
+ok 7 - approved recipients, copies and paired components expand into exact pieces
+  ---
+  duration_ms: 4.401
+  type: 'test'
+  ...
+# Subtest: reprints contain only deliberately selected approved pieces
+ok 8 - reprints contain only deliberately selected approved pieces
+  ---
+  duration_ms: 1.7
+  type: 'test'
+  ...
+# Subtest: missing canonical component cannot create a sample-only successful export
+ok 9 - missing canonical component cannot create a sample-only successful export
+  ---
+  duration_ms: 1.0281
+  type: 'test'
+  ...
+# Subtest: a malformed job records a real failure and never publishes an artifact
+ok 10 - a malformed job records a real failure and never publishes an artifact
+  ---
+  duration_ms: 20.526
+  type: 'test'
+  ...
+# Subtest: exporting an older approved snapshot creates real artwork but marks output superseded
+ok 11 - exporting an older approved snapshot creates real artwork but marks output superseded
+  ---
+  duration_ms: 1127.892
+  type: 'test'
+  ...
+# Subtest: selected reprint actually exports only one chosen component and copy
+ok 12 - selected reprint actually exports only one chosen component and copy
+  ---
+  duration_ms: 220.3432
+  type: 'test'
+  ...
+# Subtest: modified approved image fails its hash check before a PDF is published
+ok 13 - modified approved image fails its hash check before a PDF is published
+  ---
+  duration_ms: 95.7602
+  type: 'test'
+  ...
+# Subtest: worker independently blocks production export without printer calibration
+ok 14 - worker independently blocks production export without printer calibration
+  ---
+  duration_ms: 170.3012
+  type: 'test'
+  ...
+# Subtest: modified approval snapshot fails before any export can publish
+ok 15 - modified approval snapshot fails before any export can publish
+  ---
+  duration_ms: 71.0857
+  type: 'test'
+  ...
+# Subtest: offline backup restores database and private bytes into a clean instance
+ok 16 - offline backup restores database and private bytes into a clean instance
+  ---
+  duration_ms: 491.0151
+  type: 'test'
+  ...
+# Subtest: restore rejects traversal in the manifest before creating a destination
+ok 17 - restore rejects traversal in the manifest before creating a destination
+  ---
+  duration_ms: 73.2379
+  type: 'test'
+  ...
+# Subtest: backup refuses a live process and restore rejects corrupt bytes
+ok 18 - backup refuses a live process and restore rejects corrupt bytes
+  ---
+  duration_ms: 88.7166
+  type: 'test'
+  ...
+# Subtest: order QR is deterministic, self-contained, four-module quiet zone, and omits credential text metadata
+ok 19 - order QR is deterministic, self-contained, four-module quiet zone, and omits credential text metadata
+  ---
+  duration_ms: 276.9935
+  type: 'test'
+  ...
+# Subtest: independent decoder round-trips public, localhost, LAN, IPv6, Unicode host and long base URLs
+ok 20 - independent decoder round-trips public, localhost, LAN, IPv6, Unicode host and long base URLs
+  ---
+  duration_ms: 2003.1221
+  type: 'test'
+  ...
+# Subtest: independent decoder reads rotated, reduced and JPEG-compressed QR rasters
+ok 21 - independent decoder reads rotated, reduced and JPEG-compressed QR rasters
+  ---
+  duration_ms: 190.3163
+  type: 'test'
+  ...
+# Subtest: unsafe schemes, query credentials, malformed tokens and oversized inputs fail without echoing secrets
+ok 22 - unsafe schemes, query credentials, malformed tokens and oversized inputs fail without echoing secrets
+  ---
+  duration_ms: 8.389
+  type: 'test'
+  ...
+# Subtest: QR encoding has no network dependency and does not call fetch
+ok 23 - QR encoding has no network dependency and does not call fetch
+  ---
+  duration_ms: 11.93
+  type: 'test'
+  ...
+# Subtest: vendored encoder and independent decoder match their upstream Git blob identities
+ok 24 - vendored encoder and independent decoder match their upstream Git blob identities
+  ---
+  duration_ms: 19.6431
+  type: 'test'
+  ...
+# Subtest: PWA launch and icons carry no order credential
+ok 25 - PWA launch and icons carry no order credential
+  ---
+  duration_ms: 623.5053
+  type: 'test'
+  ...
+# Subtest: PWA capabilities distinguish secure context, installed mode and iPad desktop UA
+ok 26 - PWA capabilities distinguish secure context, installed mode and iPad desktop UA
+  ---
+  duration_ms: 8.5153
+  type: 'test'
+  ...
+# Subtest: PWA re-entry opens only an explicitly supplied same-shop credential link
+ok 27 - PWA re-entry opens only an explicitly supplied same-shop credential link
+  ---
+  duration_ms: 10.8248
+  type: 'test'
+  ...
+# Subtest: PWA re-entry reloads an existing order route and navigates normally from an empty launch
+ok 28 - PWA re-entry reloads an existing order route and navigates normally from an empty launch
+  ---
+  duration_ms: 6.1905
+  type: 'test'
+  ...
+# Subtest: service worker caches only credential-free static assets, and updates only on request
+ok 29 - service worker caches only credential-free static assets, and updates only on request
+  ---
+  duration_ms: 109.142
+  type: 'test'
+  ...
+# Subtest: service worker bypasses private images, APIs, token query strings and writes
+ok 30 - service worker bypasses private images, APIs, token query strings and writes
+  ---
+  duration_ms: 105.3988
+  type: 'test'
+  ...
+# Subtest: private order QR endpoint enforces native server authentication and active scopes
+    # Subtest: authenticated staff obtain a self-contained image without external services
+    ok 1 - authenticated staff obtain a self-contained image without external services
+      ---
+      duration_ms: 134.751
+      type: 'test'
+      ...
+    # Subtest: unauthenticated, organiser and missing-CSRF requests are rejected
+    ok 2 - unauthenticated, organiser and missing-CSRF requests are rejected
+      ---
+      duration_ms: 50.1109
+      type: 'test'
+      ...
+    # Subtest: foreign host, malformed token and non-order path cannot produce a QR
+    ok 3 - foreign host, malformed token and non-order path cannot produce a QR
+      ---
+      duration_ms: 30.0773
+      type: 'test'
+      ...
+    # Subtest: revocation disables QR regeneration
+    ok 4 - revocation disables QR regeneration
+      ---
+      duration_ms: 18.9074
+      type: 'test'
+      ...
+    1..4
+ok 31 - private order QR endpoint enforces native server authentication and active scopes
+  ---
+  duration_ms: 4931.9498
+  type: 'test'
+  ...
+# Subtest: A3 size is fixed; landscape swaps exact millimetres
+ok 32 - A3 size is fixed; landscape swaps exact millimetres
+  ---
+  duration_ms: 6.375
+  type: 'test'
+  ...
+# Subtest: 500 mixed recipients pack deterministically with exact coverage and gaps
+ok 33 - 500 mixed recipients pack deterministically with exact coverage and gaps
+  ---
+  duration_ms: 53.3198
+  type: 'test'
+  ...
+# Subtest: oversized artwork never shrinks, incompatible media fail
+ok 34 - oversized artwork never shrinks, incompatible media fail
+  ---
+  duration_ms: 1.7773
+  type: 'test'
+  ...
+# Subtest: rotation permitted only by component policy
+ok 35 - rotation permitted only by component policy
+  ---
+  duration_ms: 1.2686
+  type: 'test'
+  ...
+# Subtest: bleed contributes to footprint and overlap checks reject bad placement
+ok 36 - bleed contributes to footprint and overlap checks reject bad placement
+  ---
+  duration_ms: 1.8547
+  type: 'test'
+  ...
+# Subtest: calibration PDF has exact A3 MediaBox
+ok 37 - calibration PDF has exact A3 MediaBox
+  ---
+  duration_ms: 326.0943
+  type: 'test'
+  ...
+# Subtest: bundled licensed Malayalam font loads and explicit missing font fails closed
+ok 38 - bundled licensed Malayalam font loads and explicit missing font fails closed
+  ---
+  duration_ms: 118.0103
+  type: 'test'
+  ...
+# Subtest: PDF export rejects changed canonical artwork hash
+ok 39 - PDF export rejects changed canonical artwork hash
+  ---
+  duration_ms: 204.8703
+  type: 'test'
+  ...
+# Subtest: polygon masks and bundled font choices reject unsafe or ambiguous geometry
+ok 40 - polygon masks and bundled font choices reject unsafe or ambiguous geometry
+  ---
+  duration_ms: 10.3916
+  type: 'test'
+  ...
+# Subtest: template field scopes and absent geometry cannot silently omit content
+ok 41 - template field scopes and absent geometry cannot silently omit content
+  ---
+  duration_ms: 52.4496
+  type: 'test'
+  ...
+# Subtest: canonical browser pipeline preserves crop, EXIF orientation, text fit and immutable source hashes
+ok 42 - canonical browser pipeline preserves crop, EXIF orientation, text fit and immutable source hashes
+  ---
+  duration_ms: 14376.227
+  type: 'test'
+  ...
+# Subtest: retention is dry-run by default and retains active, recently archived and unfinished orders
+ok 43 - retention is dry-run by default and retains active, recently archived and unfinished orders
+  ---
+  duration_ms: 507.1458
+  type: 'test'
+  ...
+# Subtest: explicit purge removes expired archived data in FK order while preserving active approvals and files
+ok 44 - explicit purge removes expired archived data in FK order while preserving active approvals and files
+  ---
+  duration_ms: 453.6888
+  type: 'test'
+  ...
+# Subtest: retention refuses live services and invalid periods
+ok 45 - retention refuses live services and invalid periods
+  ---
+  duration_ms: 434.4494
+  type: 'test'
+  ...
+# Subtest: a clean shop database can create a Jyothi order and render a Malayalam name
+ok 46 - a clean shop database can create a Jyothi order and render a Malayalam name
+  ---
+  duration_ms: 19831.493
+  type: 'test'
+  ...
+# Subtest: Work1 crop coordinates remain inside application bounds for every supplied index
+ok 47 - Work1 crop coordinates remain inside application bounds for every supplied index
+  ---
+  duration_ms: 4.3727
+  type: 'test'
+  ...
+# Subtest: Work1 full-body crop moves the chosen upper portrait focus to the circle centre
+ok 48 - Work1 full-body crop moves the chosen upper portrait focus to the circle centre
+  ---
+  duration_ms: 0.6043
+  type: 'test'
+  ...
+# Subtest: Work1 collage crop enlarges the large upper portrait instead of the small lower collage
+ok 49 - Work1 collage crop enlarges the large upper portrait instead of the small lower collage
+  ---
+  duration_ms: 0.3901
+  type: 'test'
+  ...
+1..49
+# tests 71
+# suites 0
+# pass 71
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 25434.9085

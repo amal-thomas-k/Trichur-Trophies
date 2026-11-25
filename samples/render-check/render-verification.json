@@ -1,0 +1,419 @@
+{
+  "startedAt": "2026-11-20T10:54:30.850Z",
+  "renders": [
+    {
+      "templateId": "demo-479-c-v2",
+      "artworks": [
+        {
+          "componentId": "front",
+          "componentName": "Front",
+          "path": "<PROJECT_ROOT>\\samples\\render-check\\demo-479-c-v2\\front-c4d7db4f52fe8fa2.png",
+          "sha256": "c4d7db4f52fe8fa24bc08078b5be94e15451004d9b5fe45ad72d23ca50002f94",
+          "widthMm": 85.005333,
+          "heightMm": 156.040667,
+          "pixelWidth": 1004,
+          "pixelHeight": 1843,
+          "dpi": 300,
+          "bleedMm": 0,
+          "includesBleed": false,
+          "trimMask": null,
+          "trimGeometryStatus": "unverified",
+          "allowRotation": true,
+          "media": "photo-paper",
+          "effectiveDpi": 507.99999999999994,
+          "fit": [
+            {
+              "field": "Shared heading",
+              "ok": true,
+              "fontPx": 64.95342104453741
+            },
+            {
+              "field": "Event",
+              "ok": true,
+              "fontPx": 35.430187315452756
+            },
+            {
+              "field": "Date",
+              "ok": true,
+              "fontPx": 29.526117279773622
+            },
+            {
+              "field": "Recipient name",
+              "ok": true,
+              "fontPx": 70.85749108021653
+            },
+            {
+              "field": "Achievement",
+              "ok": true,
+              "fontPx": 47.24063422736221
+            }
+          ],
+          "sourceLayerHashes": {
+            "background": "85b958427b804d8ffd001097e51637d51d0066117c6b3450e22c0f7b0d82cba3",
+            "foreground": null
+          }
+        }
+      ],
+      "warnings": [],
+      "renderer": {
+        "version": "tt-canonical-3",
+        "browser": "157.0.8103.79",
+        "font": "NotoSansMalayalam.ttf",
+        "fontSha256": "312e0e7c3cc15fa09eb42a8f749eeb246b593ed420e3c81aafe8d910c3a6fb56",
+        "latinFontSha256": "f8ace1f892b2bd9dc1792ba7f097fa7588f84fed48321480e04de5390828221f",
+        "dpi": 300,
+        "colorSpace": "sRGB",
+        "cropVersion": "normalized-cover-1"
+      }
+    },
+    {
+      "templateId": "demo-727-a-v2",
+      "artworks": [
+        {
+          "componentId": "front",
+          "componentName": "Front",
+          "path": "<PROJECT_ROOT>\\samples\\render-check\\demo-727-a-v2\\front-6337d08ba2838ed3.png",
+          "sha256": "6337d08ba2838ed3cf8c4d9e4c6f28650c42ffed278e39f01eebd46c110b37ff",
+          "widthMm": 34.036,
+          "heightMm": 34.036,
+          "pixelWidth": 402,
+          "pixelHeight": 402,
+          "dpi": 300,
+          "bleedMm": 0,
+          "includesBleed": false,
+          "trimMask": null,
+          "trimGeometryStatus": "unverified",
+          "allowRotation": true,
+          "media": "photo-paper",
+          "effectiveDpi": 1524,
+          "fit": [
+            {
+              "field": "Recipient name",
+              "ok": true,
+              "fontPx": 31.888033649114178
+            }
+          ],
+          "sourceLayerHashes": {
+            "background": "d90bc407dfbeae2a57f05d1251c3c7112319ee1207498b4b96133a4ff120cef9",
+            "foreground": null
+          }
+        },
+        {
+          "componentId": "base",
+          "componentName": "Base",
+          "path": "<PROJECT_ROOT>\\samples\\render-check\\demo-727-a-v2\\base-679dfe4ff8bf4d6e.png",
+          "sha256": "679dfe4ff8bf4d6e5bd90b47d08c4fa56e0648183a130e3394d7015ac687f44c",
+          "widthMm": 71.289333,
+          "heightMm": 90.254667,
+          "pixelWidth": 842,
+          "pixelHeight": 1066,
+          "dpi": 300,
+          "bleedMm": 0,
+          "includesBleed": false,
+          "trimMask": null,
+          "trimGeometryStatus": "unverified",
+          "allowRotation": true,
+          "media": "photo-paper",
+          "effectiveDpi": null,
+          "fit": [
+            {
+              "field": "Shared heading",
+              "ok": true,
+              "fontPx": 49.602262241633866
+            },
+            {
+              "field": "Event",
+              "ok": true,
+              "fontPx": 33.0685593011811
+            },
+            {
+              "field": "Date",
+              "ok": true,
+              "fontPx": 29.52554056963583
+            },
+            {
+              "field": "Recipient name",
+              "ok": true,
+              "fontPx": 59.04935100885827
+            },
+            {
+              "field": "Achievement",
+              "ok": true,
+              "fontPx": 41.335699126476385
+            }
+          ],
+          "sourceLayerHashes": {
+            "background": "dcdc41d07d1f388737a68062bb4e20aad798788e5c6ac9e96913839dc7c9a992",
+            "foreground": null
+          }
+        }
+      ],
+      "warnings": [],
+      "renderer": {
+        "version": "tt-canonical-3",
+        "browser": "157.0.8103.79",
+        "font": "NotoSansMalayalam.ttf",
+        "fontSha256": "312e0e7c3cc15fa09eb42a8f749eeb246b593ed420e3c81aafe8d910c3a6fb56",
+        "latinFontSha256": "f8ace1f892b2bd9dc1792ba7f097fa7588f84fed48321480e04de5390828221f",
+        "dpi": 300,
+        "colorSpace": "sRGB",
+        "cropVersion": "normalized-cover-1"
+      }
+    },
+    {
+      "templateId": "demo-h-glass-big-v2",
+      "artworks": [
+        {
+          "componentId": "front",
+          "componentName": "Front",
+          "path": "<PROJECT_ROOT>\\samples\\render-check\\demo-h-glass-big-v2\\front-438ffb9b08f3ce72.png",
+          "sha256": "438ffb9b08f3ce725b66c02d15b7bcb0c97f3344a374e2f80060aec6b71d1321",
+          "widthMm": 114.977333,
+          "heightMm": 242.993333,
+          "pixelWidth": 1358,
+          "pixelHeight": 2870,
+          "dpi": 300,
+          "bleedMm": 0,
+          "includesBleed": false,
+          "trimMask": null,
+          "trimGeometryStatus": "unverified",
+          "allowRotation": true,
+          "media": "photo-paper",
+          "effectiveDpi": 417.5342465753424,
+          "fit": [
+            {
+              "field": "Shared heading",
+              "ok": true,
+              "fontPx": 82.66851470226379
+            },
+            {
+              "field": "Event",
+              "ok": true,
+              "fontPx": 47.23976916215551
+            },
+            {
+              "field": "Date",
+              "ok": true,
+              "fontPx": 47.23976916215551
+            },
+            {
+              "field": "Recipient name",
+              "ok": true,
+              "fontPx": 94.47723148375985
+            },
+            {
+              "field": "Achievement",
+              "ok": true,
+              "fontPx": 64.9548628198819
+            }
+          ],
+          "sourceLayerHashes": {
+            "background": "d7c368d06e4f4160656c123ff293cd258f7b2de309a9d5f663123883de26fc86",
+            "foreground": null
+          }
+        }
+      ],
+      "warnings": [],
+      "renderer": {
+        "version": "tt-canonical-3",
+        "browser": "157.0.8103.79",
+        "font": "NotoSansMalayalam.ttf",
+        "fontSha256": "312e0e7c3cc15fa09eb42a8f749eeb246b593ed420e3c81aafe8d910c3a6fb56",
+        "latinFontSha256": "f8ace1f892b2bd9dc1792ba7f097fa7588f84fed48321480e04de5390828221f",
+        "dpi": 300,
+        "colorSpace": "sRGB",
+        "cropVersion": "normalized-cover-1"
+      }
+    }
+  ],
+  "pageChecks": [
+    {
+      "page": 1,
+      "widthMm": 297,
+      "heightMm": 420
+    }
+  ],
+  "warnings": [],
+  "calibration": {
+    "path": "<PROJECT_ROOT>\\samples\\render-check\\calibration-A3.pdf",
+    "sha256": "fda8e6a1b92516aacbca3df5a5d9ab41ef8f3eed34a2130586f527281782c171",
+    "widthMm": 297,
+    "heightMm": 420
+  },
+  "malayalam": {
+    "path": "<PROJECT_ROOT>\\samples\\render-check\\malayalam-corpus.png",
+    "sha256": "06b2ae6a30b20f188a818d0e2508e372b3012495b847c26f8d1d60fc8530ac7b",
+    "corpus": [
+      "കേരളം • മലയാളം • പുരസ്കാരം",
+      "ക്ഷമ • ശ്രീലക്ഷ്മി • നന്ദന • അഭിനന്ദനങ്ങൾ",
+      "അരുൺ കെ. • അനിൽ • ശിൽപ • കൃഷ്ണൻ • ബാലൻ",
+      "ൾ ൽ ർ ൻ ൺ ൿ • ക്‍ • ന്‍ • ീ ു ൂ ൃ",
+      "Dr. Amal കെ. തോമസ് — 2026 / A-1",
+      "ശ്രീ. കൃഷ്ണപ്രസാദ് എം. എൻ. — മികച്ച നേട്ടത്തിനുള്ള അംഗീകാരം"
+    ],
+    "font": "NotoSansMalayalam.ttf",
+    "fontSha256": "312e0e7c3cc15fa09eb42a8f749eeb246b593ed420e3c81aafe8d910c3a6fb56",
+    "browser": "157.0.8103.79",
+    "curvedHeadingStatus": "visual-human-review-required; editable curved fields disabled"
+  },
+  "export": {
+    "pdfPath": "<PROJECT_ROOT>\\samples\\render-check\\sample-A3-artwork.pdf",
+    "manifestPath": "<PROJECT_ROOT>\\samples\\render-check\\sample-A3-artwork.manifest.json",
+    "manifest": {
+      "schemaVersion": 1,
+      "orderId": "SYNTHETIC-RENDER-CHECK",
+      "approvalId": "renderer-verification-snapshot-not-customer-approval",
+      "revision": 1,
+      "diagnostic": true,
+      "generatedAt": "2026-11-20T10:54:34.952Z",
+      "units": "mm",
+      "origin": "top-left",
+      "colorSpace": "sRGB",
+      "profile": {
+        "id": "A3-sRGB",
+        "name": "A3 / sRGB",
+        "widthMm": 297,
+        "heightMm": 420,
+        "marginMm": 10,
+        "gapMm": 3,
+        "orientation": "portrait",
+        "media": "photo-paper",
+        "colorSpace": "sRGB"
+      },
+      "pageCount": 1,
+      "pieceCount": 6,
+      "placements": [
+        {
+          "recipientId": "synthetic-recipient-3",
+          "recipientName": "ശ്രീലക്ഷ്മി കെ. നായർ",
+          "modelCode": "H GLASS",
+          "componentId": "front",
+          "componentName": "Front",
+          "copyNumber": 1,
+          "page": 1,
+          "xMm": 10,
+          "yMm": 10,
+          "widthMm": 114.977333,
+          "heightMm": 242.993333,
+          "footprintWidthMm": 114.977333,
+          "footprintHeightMm": 242.993333,
+          "bleedMm": 0,
+          "rotation": 0,
+          "trimMask": null,
+          "trimGeometryStatus": "unverified",
+          "artworkSha256": "438ffb9b08f3ce725b66c02d15b7bcb0c97f3344a374e2f80060aec6b71d1321",
+          "pieceId": "synthetic-recipient-3:front:1"
+        },
+        {
+          "recipientId": "synthetic-recipient-1",
+          "recipientName": "ശ്രീലക്ഷ്മി കെ. നായർ",
+          "modelCode": "479 C",
+          "componentId": "front",
+          "componentName": "Front",
+          "copyNumber": 1,
+          "page": 1,
+          "xMm": 127.977333,
+          "yMm": 10,
+          "widthMm": 85.005333,
+          "heightMm": 156.040667,
+          "footprintWidthMm": 85.005333,
+          "footprintHeightMm": 156.040667,
+          "bleedMm": 0,
+          "rotation": 0,
+          "trimMask": null,
+          "trimGeometryStatus": "unverified",
+          "artworkSha256": "c4d7db4f52fe8fa24bc08078b5be94e15451004d9b5fe45ad72d23ca50002f94",
+          "pieceId": "synthetic-recipient-1:front:1"
+        },
+        {
+          "recipientId": "synthetic-recipient-2",
+          "recipientName": "അരുൺ കെ.",
+          "modelCode": "727 A",
+          "componentId": "base",
+          "componentName": "Base",
+          "copyNumber": 1,
+          "page": 1,
+          "xMm": 10,
+          "yMm": 255.993333,
+          "widthMm": 71.289333,
+          "heightMm": 90.254667,
+          "footprintWidthMm": 71.289333,
+          "footprintHeightMm": 90.254667,
+          "bleedMm": 0,
+          "rotation": 0,
+          "trimMask": null,
+          "trimGeometryStatus": "unverified",
+          "artworkSha256": "679dfe4ff8bf4d6e5bd90b47d08c4fa56e0648183a130e3394d7015ac687f44c",
+          "pieceId": "synthetic-recipient-2:base:1"
+        },
+        {
+          "recipientId": "synthetic-recipient-2",
+          "recipientName": "അരുൺ കെ.",
+          "modelCode": "727 A",
+          "componentId": "base",
+          "componentName": "Base",
+          "copyNumber": 2,
+          "page": 1,
+          "xMm": 84.289333,
+          "yMm": 255.993333,
+          "widthMm": 71.289333,
+          "heightMm": 90.254667,
+          "footprintWidthMm": 71.289333,
+          "footprintHeightMm": 90.254667,
+          "bleedMm": 0,
+          "rotation": 0,
+          "trimMask": null,
+          "trimGeometryStatus": "unverified",
+          "artworkSha256": "679dfe4ff8bf4d6e5bd90b47d08c4fa56e0648183a130e3394d7015ac687f44c",
+          "pieceId": "synthetic-recipient-2:base:2"
+        },
+        {
+          "recipientId": "synthetic-recipient-2",
+          "recipientName": "അരുൺ കെ.",
+          "modelCode": "727 A",
+          "componentId": "front",
+          "componentName": "Front",
+          "copyNumber": 1,
+          "page": 1,
+          "xMm": 215.982666,
+          "yMm": 10,
+          "widthMm": 34.036,
+          "heightMm": 34.036,
+          "footprintWidthMm": 34.036,
+          "footprintHeightMm": 34.036,
+          "bleedMm": 0,
+          "rotation": 0,
+          "trimMask": null,
+          "trimGeometryStatus": "unverified",
+          "artworkSha256": "6337d08ba2838ed3cf8c4d9e4c6f28650c42ffed278e39f01eebd46c110b37ff",
+          "pieceId": "synthetic-recipient-2:front:1"
+        },
+        {
+          "recipientId": "synthetic-recipient-2",
+          "recipientName": "അരുൺ കെ.",
+          "modelCode": "727 A",
+          "componentId": "front",
+          "componentName": "Front",
+          "copyNumber": 2,
+          "page": 1,
+          "xMm": 158.578666,
+          "yMm": 255.993333,
+          "widthMm": 34.036,
+          "heightMm": 34.036,
+          "footprintWidthMm": 34.036,
+          "footprintHeightMm": 34.036,
+          "bleedMm": 0,
+          "rotation": 0,
+          "trimMask": null,
+          "trimGeometryStatus": "unverified",
+          "artworkSha256": "6337d08ba2838ed3cf8c4d9e4c6f28650c42ffed278e39f01eebd46c110b37ff",
+          "pieceId": "synthetic-recipient-2:front:2"
+        }
+      ]
+    },
+    "sha256": "c33d0358945cdb9df5dd4dd539d11fe56caf422d495099d3ab2a9d8502935e3c",
+    "sizeBytes": 389858,
+    "pageCount": 1
+  },
+  "completedAt": "2026-11-20T10:54:36.370Z"
+}

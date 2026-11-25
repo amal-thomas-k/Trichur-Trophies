@@ -1,0 +1,20 @@
+node_modules
+data
+backups
+.env*
+**/.env*
+*.env
+.git
+Catalogues
+Design Templates
+Work 1
+Work1-Output
+delivery
+*.log
+*.sqlite*
+private/*
+!private/prepared-assets/
+!private/prepared-assets/**
+test-results
+playwright-report
+.tmp

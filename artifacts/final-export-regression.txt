@@ -1,0 +1,33 @@
+Γ£ö an expired worker lease recovers a durable job without marking it successful (9.5775ms)
+Γ£ö cancelled or retry-exhausted jobs are not silently rerun (11.6727ms)
+Γ£ö a waiting export cannot be starved by more than five consecutive proofs (69.3543ms)
+Γ£ö paused maintenance blocks claiming new work (9.2937ms)
+Γ£ö worker refuses another live process lock or malformed PID (11.3119ms)
+Γ£ö approved recipients, copies and paired components expand into exact pieces (3.0071ms)
+Γ£ö reprints contain only deliberately selected approved pieces (1.1538ms)
+Γ£ö missing canonical component cannot create a sample-only successful export (0.8018ms)
+Γ£ö a malformed job records a real failure and never publishes an artifact (28.9115ms)
+Γ£ö exporting an older approved snapshot creates real artwork but marks output superseded (133.8049ms)
+Γ£ö selected reprint actually exports only one chosen component and copy (53.7389ms)
+Γ£ö modified approved image fails its hash check before a PDF is published (19.2357ms)
+Γ£ö worker independently blocks production export without printer calibration (22.8869ms)
+Γ£ö modified approval snapshot fails before any export can publish (23.2894ms)
+Γ£ö A3 size is fixed; landscape swaps exact millimetres (1.4608ms)
+Γ£ö 500 mixed recipients pack deterministically with exact coverage and gaps (13.8239ms)
+Γ£ö oversized artwork never shrinks, incompatible media fail (0.3562ms)
+Γ£ö rotation permitted only by component policy (0.2682ms)
+Γ£ö bleed contributes to footprint and overlap checks reject bad placement (0.3821ms)
+Γ£ö calibration PDF has exact A3 MediaBox (65.5626ms)
+Γ£ö bundled licensed Malayalam font loads and explicit missing font fails closed (6.9315ms)
+Γ£ö PDF export rejects changed canonical artwork hash (11.0175ms)
+Γ£ö polygon masks and bundled font choices reject unsafe or ambiguous geometry (2.3279ms)
+Γ£ö template field scopes and absent geometry cannot silently omit content (15.5283ms)
+Γ£ö canonical browser pipeline preserves crop, EXIF orientation, text fit and immutable source hashes (3747.6899ms)
+Γä╣ tests 25
+Γä╣ suites 0
+Γä╣ pass 25
+Γä╣ fail 0
+Γä╣ cancelled 0
+Γä╣ skipped 0
+Γä╣ todo 0
+Γä╣ duration_ms 4824.9265

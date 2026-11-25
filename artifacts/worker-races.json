@@ -1,0 +1,9 @@
+{
+  "dataDir": "<PROJECT_ROOT>\\data\\stress-2-1795171759874",
+  "tests": [
+    "Duplicate render of same revision reuses the reviewed canonical proof without changing approval",
+    "A late render cannot attach to a newer name revision; review and order approval remain invalidated",
+    "Cancellation during actual rendering publishes neither a proof nor a success result"
+  ],
+  "passed": true
+}

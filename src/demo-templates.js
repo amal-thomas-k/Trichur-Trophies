@@ -1,0 +1,90 @@
+// Geometry is in millimetres. No seed is physically calibrated.
+// Source-derived frames were inspected before use; synthetic 479 is explicitly labelled.
+export const demoTemplates = [
+  {
+    id: 'demo-479-c-v2', version: 2, modelCode: '479 C',
+    name: '479 C — demonstration layout', sizeVariant: 'C', synthetic: true,
+    calibrationStatus: 'unverified',
+    preparationNote: 'Synthetic layout using verified PSD canvas metadata; not an exact reproduction of 479 C artwork. Physical cut dimensions remain unverified.',
+    sourceReference: '479 C.psd',
+    fields: [
+      { key: 'name', label: 'Recipient name', scope: 'recipient', required: true },
+      { key: 'achievement', label: 'Achievement / designation', scope: 'recipient', required: false },
+      { key: 'heading', label: 'Shared event wording', scope: 'shared', required: false },
+    ],
+    components: [{
+      id: 'front', name: 'Front', widthMm: 85.005333, heightMm: 156.040667,
+      backgroundPath: 'private/prepared-assets/479-c-synthetic-background.png',
+      photo: { x: 12.5, y: 40, width: 60, height: 60, shape: 'circle' },
+      headingBox: { x: 6, y: 10, width: 73, height: 16, minFontMm: 3, maxFontMm: 5.5 },
+      eventBox: { x: 7, y: 26, width: 71, height: 7, minFontMm: 2, maxFontMm: 3 },
+      dateBox: { x: 23, y: 139, width: 39, height: 6, minFontMm: 2, maxFontMm: 2.5 },
+      logoBox: { x: 7, y: 139, width: 10, height: 6 },
+      nameBox: { x: 7, y: 106, width: 71, height: 16, minFontMm: 3, maxFontMm: 6 },
+      achievementBox: { x: 8, y: 125, width: 69, height: 13, minFontMm: 2.8, maxFontMm: 4 },
+      bleedMm: 0, safeZoneMm: 3, allowRotation: true, media: 'photo-paper',
+      trimGeometryStatus: 'unverified',
+    }],
+  },
+  {
+    id: 'demo-727-a-v2', version: 2, modelCode: '727 A',
+    name: '727 A — front and base', sizeVariant: 'A', synthetic: false,
+    calibrationStatus: 'unverified',
+    preparationNote: 'Blank 727 A R and BASE source PNG frames with new field geometry. The proposed front/base association and both physical cuts require staff verification.',
+    sourceReference: '727 A R.psd; 727 A BASE.psd',
+    fields: [
+      { key: 'name', label: 'Recipient name', scope: 'recipient', required: true },
+      { key: 'achievement', label: 'Achievement / designation', scope: 'recipient', required: false },
+      { key: 'heading', label: 'Shared event wording', scope: 'shared', required: false },
+    ],
+    components: [
+      {
+        id: 'front', name: 'Front', widthMm: 34.036, heightMm: 34.036,
+        backgroundPath: 'private/prepared-assets/727-a-r-frame.png',
+        photo: { x: 7, y: 3.5, width: 20, height: 20, shape: 'circle' },
+        nameBox: { x: 4.5, y: 24.2, width: 25, height: 5.4, minFontMm: 2.1, maxFontMm: 2.7 },
+        bleedMm: 0, safeZoneMm: 1.5, allowRotation: true, media: 'photo-paper',
+        trimGeometryStatus: 'unverified',
+      },
+      {
+        id: 'base', name: 'Base', widthMm: 71.289333, heightMm: 90.254667,
+        backgroundPath: 'private/prepared-assets/727-a-base-frame.png',
+        headingBox: { x: 9, y: 9, width: 53, height: 24, minFontMm: 2.8, maxFontMm: 4.2 },
+        eventBox: { x: 9, y: 31, width: 53, height: 7, minFontMm: 2, maxFontMm: 2.8 },
+        dateBox: { x: 18, y: 81, width: 38, height: 5, minFontMm: 1.8, maxFontMm: 2.5 },
+        logoBox: { x: 8, y: 81, width: 8, height: 5 },
+        nameBox: { x: 8, y: 38, width: 55, height: 23, minFontMm: 3, maxFontMm: 5 },
+        achievementBox: { x: 10, y: 66, width: 51, height: 14, minFontMm: 2.5, maxFontMm: 3.5 },
+        bleedMm: 0, safeZoneMm: 3, allowRotation: true, media: 'photo-paper',
+        trimGeometryStatus: 'unverified',
+      },
+    ],
+  },
+  {
+    id: 'demo-h-glass-big-v2', version: 2, modelCode: 'H GLASS',
+    name: 'H GLASS — Big', sizeVariant: 'BIG', synthetic: false,
+    calibrationStatus: 'unverified',
+    preparationNote: 'Blank H GLASS BIG source PNG frame with new field geometry. Physical cut dimensions remain unverified.',
+    sourceReference: 'H GLASS BIG.psd',
+    fields: [
+      { key: 'name', label: 'Recipient name', scope: 'recipient', required: true },
+      { key: 'achievement', label: 'Achievement / designation', scope: 'recipient', required: false },
+      { key: 'heading', label: 'Shared event wording', scope: 'shared', required: false },
+    ],
+    components: [{
+      id: 'front', name: 'Front', widthMm: 114.977333, heightMm: 242.993333,
+      backgroundPath: 'private/prepared-assets/h-glass-big-frame.png',
+      photo: { x: 20.99, y: 60, width: 73, height: 73, shape: 'circle' },
+      headingBox: { x: 11, y: 17, width: 93, height: 31, minFontMm: 4, maxFontMm: 7 },
+      eventBox: { x: 11, y: 49, width: 93, height: 10, minFontMm: 2.5, maxFontMm: 4 },
+      dateBox: { x: 25, y: 215, width: 75, height: 8, minFontMm: 2.5, maxFontMm: 4 },
+      logoBox: { x: 10, y: 213, width: 13, height: 12 },
+      nameBox: { x: 9, y: 151, width: 97, height: 26, minFontMm: 4.2, maxFontMm: 8 },
+      achievementBox: { x: 10, y: 184, width: 95, height: 25, minFontMm: 3.5, maxFontMm: 5.5 },
+      bleedMm: 0, safeZoneMm: 4, allowRotation: true, media: 'photo-paper',
+      trimGeometryStatus: 'unverified',
+    }],
+  },
+];
+
+export default demoTemplates;
